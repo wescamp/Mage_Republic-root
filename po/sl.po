@@ -1,0 +1,616 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wescamp-i 18n\n"
+"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2005-05-08 21:56+0200\n"
+"PO-Revision-Date: 2005-05-08 21:56+0200\n"
+"Last-Translator: Automatically generated\n"
+"Language-Team: none\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
+"%100==4 ? 2 : 3);\n"
+
+#: Mage_Republic.cfg:10
+msgid "The Mage Republic"
+msgstr ""
+
+#: Mage_Republic.cfg:14
+msgid "Mage"
+msgstr ""
+
+#: Mage_Republic.cfg:14
+msgid "(easiest)"
+msgstr ""
+
+#: Mage_Republic.cfg:15
+msgid "White Mage"
+msgstr ""
+
+#: Mage_Republic.cfg:16
+msgid "(hardest)"
+msgstr ""
+
+#: Mage_Republic.cfg:16
+msgid "Silver Mage"
+msgstr ""
+
+#: Mage_Republic.cfg:17
+msgid "Help the mages fight the undead in the Far Island"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:5
+msgid "The Dwarven Fort"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:30
+msgid ""
+"\n"
+"Victory:\n"
+"@Escape to the northernmost dwarven keep when road is completed\n"
+"OR\n"
+"@Survive for 40 days\n"
+"Defeat:\n"
+"#Death of Delter\n"
+"#Death of Heltor\n"
+"#Death of Gelper"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:71
+#: Mage_Republic/Scenarios/Wasteland.cfg:105
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:71
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:74
+#: Mage_Republic/Scenarios/Return.cfg:57
+msgid "We have been defeated."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:86
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:86
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:89
+msgid "Must...help...Delter..."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:101
+msgid "No!!! The dwarves are defeated."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:105
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:247
+msgid "We are doomed!!!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:156
+msgid "We shall kill you!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:161
+msgid "With these mages as my allies, you don't have a chance."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:166
+msgid "These puny mages can't even kill one of my people!!!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:170
+msgid "Yes, the elves do LOVE bragging."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:175
+msgid ""
+"Shh! My men are building a road. If we survive until it's finished, we can "
+"run away."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:180
+msgid "Where will the road lead?"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:185
+msgid "That is a mystery."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:196
+msgid "Yes!!! These elves have been defeated."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:227
+msgid "We can escape!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:5
+msgid "Dwarves and Elves"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:12
+msgid ""
+"Next the mages went into the forest where elves dwelled. On the way, they "
+"noticed some dwarves."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:137
+msgid "Look! Some mages!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:142
+msgid "Greetings, elves."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:146
+msgid "Welcome mages."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:151
+msgid ""
+"Dwarves, go away!!! And take these mages if you want. We can defeat you even "
+"without them!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:155
+msgid "The elves LOVE bragging."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:159
+msgid "My dwarves: should we let them join us?"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:163
+msgid "Let them join."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:167
+msgid "I see... We'll accept them, but it is their choice."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:169
+msgid "Let's Join the dwarves"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:173
+msgid "Thank you for joining us, mages."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:177
+msgid "Yay! I'm reunited with my kin"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:193
+msgid "No! We shalln't unite with the dwarves."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:197
+msgid "Oh well..."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:202
+msgid "Than I will leave you."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:207
+msgid "Master, I'm going to join my kin in fighting the elves."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:212
+msgid "Bye!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:5
+msgid "Furious Battle"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:13
+msgid "And so the mages sailed away, only to fight another battle."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:44
+msgid ""
+"\n"
+"Victory:\n"
+"@Kill enemy leaders\n"
+"Defeat:\n"
+"#Death of Delter\n"
+"#Death of Heltor\n"
+"#Death of an ally leader\n"
+"#Turns run out"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:109
+msgid "Ill not go so easi- Arggh!!!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:113
+msgid "Without him, there is no hope..."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:194
+msgid "The Undead Hordes of the Muh clan are defeated."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:199
+msgid "Now we must travel into the land of the elves."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:214
+msgid "I knew you mages were coming"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:219
+msgid "More undead???"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:223
+msgid "We must kill them!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:228
+msgid "You mean We must kill you."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:232
+msgid ""
+"We are completely surrounded. Our only hope is if some human patrol finds "
+"and helps us."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:314
+msgid "Look! Mages! We shall help them."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:319
+msgid "Horaaay!!!!! We're saved!!!!!!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:323
+msgid "Don't celebrate yet, son. The battle's far from over."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:4
+msgid "The Last Hope"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:12
+msgid ""
+"The mages' fort on the Far Island was constantly attacked by the undead..."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:18
+msgid "Their leader was killed in battle, and little hope was left..."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:23
+msgid "They elected a silver mage to lead them, and hoped to kill the undead."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:45
+msgid ""
+"\n"
+"Victory:\n"
+"@Escape to the ship.\n"
+"Defeat:\n"
+"#Death of Delter\n"
+"#Turns run out"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:75
+msgid "No! The mages on this island are defeated..."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:140
+msgid "I sense the presence of undead."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:184
+msgid "Now you shall die!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:189
+msgid "Only when the Spectre dies can we escape!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:200
+msgid "Yes! The Ancient Ghost is dead!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:216
+msgid "Come, my warriors to destroy these mages once and forever!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:221
+msgid "No! We shall escape."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:226
+msgid "Or so you think..."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:231
+msgid "Master, I have discovered secret plans from the enemy. They have..."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:236
+msgid "...many..."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:241
+msgid "...people in..."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:246
+msgid "...the mainland..."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:254
+msgid "Then I must train my mages well."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Lasthope.cfg:269
+msgid ""
+"The enemies are defeated! Unfortunately, reinforcements will come and kill "
+"us. To the ship!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Surrounded.cfg:185
+#: Mage_Republic/Scenarios/Lasthope.cfg:279
+msgid "We have failed to board the ship in time!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:5
+msgid "Rescue the Humans"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:13
+msgid "The mages were rescued by some humans."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:19
+msgid ""
+"I can only bring you to my home island. Unfortunately, there are undead "
+"attacking my kin. If you help me save them, we could offer you a ride "
+"further."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:44
+msgid ""
+"\n"
+"Victory:\n"
+"@Kill enemy leader\n"
+"Defeat:\n"
+"#Death of Delter\n"
+"#Death of Heltor\n"
+"#Death of Unger"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:84
+msgid "The undead are unstoppable!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:99
+msgid "No! I have died!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:114
+msgid "The humans on this island have died."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:119
+msgid "We cannot leave this island, my mages.We're defeated!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:174
+msgid "The Undead have been killed! The humans are free!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:178
+msgid ""
+"Thank you for your help! I heard you need to continue on your journey. Now "
+"board the galleon you came on and sail away. Heltor: you should come with "
+"the mages."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:193
+msgid "Some mages have come!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:198
+msgid "Indead we have."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:202
+msgid "Phew! Finally some relief!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:207
+msgid "Both of you will die!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:212
+msgid ""
+"We do not have the melee units to fight these skeletons! Our swords go right "
+"through these monsters!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:217
+msgid ""
+" Wait Heltor!  I heard that impact weapons, along with magic, can harm the "
+"undead!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:222
+msgid "We can arm the local populace with some maces off our ship."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:227
+msgid "It shall be done."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:248
+msgid "Ready to serve."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:269
+msgid "We found some dwarves!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:288
+msgid ""
+"Please help. The undead have pressed us hard these past few days. My "
+"brothers and I were forced into hiding. We will join you, and in return for "
+"your aid we'll give you all our gold."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:305
+msgid "The humans are dead. We cannot continue."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Return.cfg:5
+msgid "The Return"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Return.cfg:12
+msgid ""
+"The mages sailed to the what used to be their island island. Part of it had "
+"become wastelands and many things had changed. Luckily, the mages found an "
+"empty keep."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Return.cfg:34
+msgid ""
+"\n"
+"Victory:\n"
+"@Kill the undead\n"
+"Defeat:\n"
+"#Death of Delter\n"
+"#Turns run out"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Return.cfg:130
+msgid "Your land is defeated"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Return.cfg:135
+msgid "Never!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Return.cfg:146
+msgid "We cannot survive any longer"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Surrounded.cfg:5
+msgid "Surrounded!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Surrounded.cfg:12
+msgid "The mages sailed away towards the mainland."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Surrounded.cfg:16
+msgid "The party disembarked only to face a group of undead."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Surrounded.cfg:39
+msgid ""
+"\n"
+"Victory:\n"
+"@Survive until a rescue party comes.\n"
+"Defeat:\n"
+"#Death of Delter\n"
+"#Turns run out"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Surrounded.cfg:62
+msgid "The Mage Republic is doomed..."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Surrounded.cfg:99
+msgid "We must board the ship quickly."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Surrounded.cfg:112
+msgid "We escaped!!!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Surrounded.cfg:128
+msgid "Welcome to our lair."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Surrounded.cfg:133
+msgid "The Undead are everywhere!!!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Surrounded.cfg:138
+msgid "What did you expect?"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Surrounded.cfg:143
+msgid "A peaceful land"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Surrounded.cfg:148
+msgid "There are no more lands that you call peaceful."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Surrounded.cfg:153
+msgid "Only we, the immortals, shall dominate."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Surrounded.cfg:158
+msgid "And it is now your hour to die!!!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Surrounded.cfg:172
+msgid "We actually defeated the enemy leader!!!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Wasteland.cfg:5
+msgid "The Wasteland"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Wasteland.cfg:32
+#: Mage_Republic/Scenarios/Wasteland.cfg:51
+msgid ""
+"\n"
+"Victory:\n"
+"@Kill enemy leaders\n"
+"Defeat:\n"
+"#Death of Delter\n"
+"#Death of Heltor\n"
+"#Death of Gelper"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Wasteland.cfg:40
+msgid ""
+"\n"
+"Victory:\n"
+"@Kill enemy leaders\n"
+"Defeat:\n"
+"#Death of Delter\n"
+"#Death of Heltor"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Wasteland.cfg:120
+msgid "No..."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Wasteland.cfg:139
+msgid "The... Wasteland..."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Wasteland.cfg:143
+msgid "We cannot defeat the undead alone."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Wasteland.cfg:211
+msgid "You didn't know about the wasteland, did you?"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Wasteland.cfg:216
+msgid "I'm tired of speaking to these undead."
+msgstr ""
+
+#: Mage_Republic/Scenarios/Wasteland.cfg:225
+msgid "Yes!!! No more undead!"
+msgstr ""
+
+#: Mage_Republic/Scenarios/Wasteland.cfg:237
+msgid "No!!! We are out of time..."
+msgstr ""
