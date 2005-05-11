@@ -3,45 +3,46 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-08 21:56+0200\n"
-"PO-Revision-Date: 2005-05-08 21:56+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2005-05-11 12:57+0200\n"
+"Last-Translator: tephlon\n"
+"Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms:  nplurals=2; plural=(n != 1);\n"
+"X-Generator: KBabel 1.10\n"
 
 #: Mage_Republic.cfg:10
 msgid "The Mage Republic"
-msgstr ""
+msgstr "Magikernas Republik"
 
 #: Mage_Republic.cfg:14
 msgid "Mage"
-msgstr ""
+msgstr "Magiker"
 
 #: Mage_Republic.cfg:14
 msgid "(easiest)"
-msgstr ""
+msgstr "(lättast)"
 
 #: Mage_Republic.cfg:15
 msgid "White Mage"
-msgstr ""
+msgstr "Vit magiker"
 
 #: Mage_Republic.cfg:16
 msgid "(hardest)"
-msgstr ""
+msgstr "(svårast)"
 
 #: Mage_Republic.cfg:16
 msgid "Silver Mage"
-msgstr ""
+msgstr "Silvermagiker"
 
 #: Mage_Republic.cfg:17
 msgid "Help the mages fight the undead in the Far Island"
-msgstr ""
+msgstr "Hjälp magikerna bekämpa de vandöda på Ensliga ön"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:5
 msgid "The Dwarven Fort"
-msgstr ""
+msgstr "Dvärgfortet"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:30
 msgid ""
@@ -55,6 +56,15 @@ msgid ""
 "#Death of Heltor\n"
 "#Death of Gelper"
 msgstr ""
+"\n"
+"Seger:\n"
+"@Fly till den nordligaste dvärgutposten när vägen är färdigställd\n"
+"ELLER\n"
+"@Håll stånd i 40 dagar\n"
+"Nederlag:\n"
+"#Delter dör\n"
+"#Heltor dör\n"
+"#Gelper dör"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:71
 #: Mage_Republic/Scenarios/Wasteland.cfg:105
@@ -62,144 +72,151 @@ msgstr ""
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:74
 #: Mage_Republic/Scenarios/Return.cfg:57
 msgid "We have been defeated."
-msgstr ""
+msgstr "Vi är besegrade!"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:86
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:86
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:89
 msgid "Must...help...Delter..."
-msgstr ""
+msgstr "Måste...hjälpa...Delter"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:101
 msgid "No!!! The dwarves are defeated."
-msgstr ""
+msgstr "Nej! Dvärgarna är besegrade."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:105
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:247
 msgid "We are doomed!!!"
-msgstr ""
+msgstr "Vi är dödsdömda!"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:156
 msgid "We shall kill you!"
-msgstr ""
+msgstr "Vi skall döda er!"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:161
 msgid "With these mages as my allies, you don't have a chance."
-msgstr ""
+msgstr "När jag har de här magikerna som mina allierade, så är du chanslös."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:166
 msgid "These puny mages can't even kill one of my people!!!"
-msgstr ""
+msgstr "De ynkliga magikerna kan inte döda ens en enda av mitt folk!"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:170
 msgid "Yes, the elves do LOVE bragging."
-msgstr ""
+msgstr "Ja, alverna ÄLSKAR ju att skryta."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:175
 msgid ""
 "Shh! My men are building a road. If we survive until it's finished, we can "
 "run away."
 msgstr ""
+"Shh! Mina mannar bygger en väg. Om vi kan hålla stånd tills den är klar, så "
+"kan vi fly."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:180
 msgid "Where will the road lead?"
-msgstr ""
+msgstr "Vart går vägen?"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:185
 msgid "That is a mystery."
-msgstr ""
+msgstr "Det är ett mysterium."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:196
 msgid "Yes!!! These elves have been defeated."
-msgstr ""
+msgstr "Ja! Alverna är besegrade."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:227
 msgid "We can escape!"
-msgstr ""
+msgstr "Vi kan fly nu!"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:5
 msgid "Dwarves and Elves"
-msgstr ""
+msgstr "Dvärgar och alver"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:12
 msgid ""
 "Next the mages went into the forest where elves dwelled. On the way, they "
 "noticed some dwarves."
 msgstr ""
+"Därefter så gav sig magikerna in i den skog där alverna bodde. På vägen fick "
+"de syn på några dvärgar."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:137
 msgid "Look! Some mages!"
-msgstr ""
+msgstr "Titta! Magiker!"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:142
 msgid "Greetings, elves."
-msgstr ""
+msgstr "Var hälsade, alver."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:146
 msgid "Welcome mages."
-msgstr ""
+msgstr "Välkomna, magiker."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:151
 msgid ""
 "Dwarves, go away!!! And take these mages if you want. We can defeat you even "
 "without them!"
 msgstr ""
+"Ge er iväg, dvärgar! Och ta med er de där magikerna om ni vill. Vi kan "
+"besegra er utan dem!"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:155
 msgid "The elves LOVE bragging."
-msgstr ""
+msgstr "Alverna ÄLSKAR att skryta."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:159
 msgid "My dwarves: should we let them join us?"
-msgstr ""
+msgstr "Mina dvärgar, skall vi låta dem ansluta sig till oss?"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:163
 msgid "Let them join."
-msgstr ""
+msgstr "Låt dem komma med."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:167
 msgid "I see... We'll accept them, but it is their choice."
-msgstr ""
+msgstr "Jag förstår... Vi tar emot dem, men de får välja själva."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:169
 msgid "Let's Join the dwarves"
-msgstr ""
+msgstr "Låt oss ansluta oss till dvärgarna."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:173
 msgid "Thank you for joining us, mages."
-msgstr ""
+msgstr "Tack för att ni kom med oss, magiker."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:177
 msgid "Yay! I'm reunited with my kin"
-msgstr ""
+msgstr "Jippi! Jag har återförenats med de mina."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:193
 msgid "No! We shalln't unite with the dwarves."
-msgstr ""
+msgstr "Nej! Vi kommer inte att göra gemensam sak med dvärgarna."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:197
 msgid "Oh well..."
-msgstr ""
+msgstr "Nåväl..."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:202
 msgid "Than I will leave you."
-msgstr ""
+msgstr "Då lämnar jag er."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:207
 msgid "Master, I'm going to join my kin in fighting the elves."
-msgstr ""
+msgstr "Mäster, jag går med de mina för att slåss mot alverna."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:212
 msgid "Bye!"
-msgstr ""
+msgstr "Farväl!"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:5
 msgid "Furious Battle"
-msgstr ""
+msgstr "Vild strid"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:13
 msgid "And so the mages sailed away, only to fight another battle."
 msgstr ""
+"Och så seglade magikerna sin väg, bara för att få utkämpa en annan strid."
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:44
 msgid ""
@@ -212,73 +229,85 @@ msgid ""
 "#Death of an ally leader\n"
 "#Turns run out"
 msgstr ""
+"\n"
+"Seger:\n"
+"@Döda fiendeledarna\n"
+"Nederlag:\n"
+"#Delter dör\n"
+"#Heltor dör\n"
+"#En allierad ledare dör\n"
+"#Dragen tar slut"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:109
 msgid "Ill not go so easi- Arggh!!!"
-msgstr ""
+msgstr "Jag ger mig inte så lä- Argh!"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:113
 msgid "Without him, there is no hope..."
-msgstr ""
+msgstr "Utan honom är hoppet ute..."
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:194
 msgid "The Undead Hordes of the Muh clan are defeated."
-msgstr ""
+msgstr "De vandöda horderna från Muh-klanen är besegrade."
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:199
 msgid "Now we must travel into the land of the elves."
-msgstr ""
+msgstr "Nu måste vi ge oss in i alvernas land."
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:214
 msgid "I knew you mages were coming"
-msgstr ""
+msgstr "Jag visste att ni var på väg, magiker."
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:219
 msgid "More undead???"
-msgstr ""
+msgstr "Fler vandöda?!"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:223
 msgid "We must kill them!"
-msgstr ""
+msgstr "Vi måste döda dem!"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:228
 msgid "You mean We must kill you."
-msgstr ""
+msgstr "Du menar att vi måste döda er."
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:232
 msgid ""
 "We are completely surrounded. Our only hope is if some human patrol finds "
 "and helps us."
 msgstr ""
+"Vi är helt omringade. Vårt enda hopp är att någon människopatrull hittar oss "
+"och hjälper oss."
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:314
 msgid "Look! Mages! We shall help them."
-msgstr ""
+msgstr "Titta! Magiker! Vi måste hjälpa dem."
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:319
 msgid "Horaaay!!!!! We're saved!!!!!!"
-msgstr ""
+msgstr "Hurraa! Vi är räddade!"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:323
 msgid "Don't celebrate yet, son. The battle's far from over."
-msgstr ""
+msgstr "Fira inte än, min son. Striden är långt ifrån över."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:4
 msgid "The Last Hope"
-msgstr ""
+msgstr "Det sista hoppet"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:12
 msgid ""
 "The mages' fort on the Far Island was constantly attacked by the undead..."
 msgstr ""
+"Magikernas fort på Ensliga ön var ständigt under attack från de vandöda..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:18
 msgid "Their leader was killed in battle, and little hope was left..."
-msgstr ""
+msgstr "Deras ledare dödades i strid, och det fanns inte mycket hopp kvar..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:23
 msgid "They elected a silver mage to lead them, and hoped to kill the undead."
 msgstr ""
+"De valde en silvermagiker som ledare, och hoppades kunna döda de vandöda."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:45
 msgid ""
@@ -289,77 +318,85 @@ msgid ""
 "#Death of Delter\n"
 "#Turns run out"
 msgstr ""
+"\n"
+"Seger:\n"
+"@Fly till skeppet\n"
+"Nederlag:\n"
+"#Delter dör\n"
+"#Dragen tar slut"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:75
 msgid "No! The mages on this island are defeated..."
-msgstr ""
+msgstr "Nej! Magikerna på den här ön har blivit besegrade..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:140
 msgid "I sense the presence of undead."
-msgstr ""
+msgstr "Jag känner de vandödas närvaro."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:184
 msgid "Now you shall die!"
-msgstr ""
+msgstr "Nu skall ni dö!"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:189
 msgid "Only when the Spectre dies can we escape!"
-msgstr ""
+msgstr "Vi kan inte fly förrän den onda anden dör!"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:200
 msgid "Yes! The Ancient Ghost is dead!"
-msgstr ""
+msgstr "Ja! Det uråldriga spöket är nedgjort!"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:216
 msgid "Come, my warriors to destroy these mages once and forever!"
-msgstr ""
+msgstr "Kom och förgör dessa magiker en gång för alla, mina krigare!"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:221
 msgid "No! We shall escape."
-msgstr ""
+msgstr "Nej! Vi skall undfly er."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:226
 msgid "Or so you think..."
-msgstr ""
+msgstr "Det är bara som ni tror..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:231
 msgid "Master, I have discovered secret plans from the enemy. They have..."
-msgstr ""
+msgstr "Mästare, jag har lyckats få reda på fiendens hemliga planer. De har..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:236
 msgid "...many..."
-msgstr ""
+msgstr "...många..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:241
 msgid "...people in..."
-msgstr ""
+msgstr "...trupper på..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:246
 msgid "...the mainland..."
-msgstr ""
+msgstr "...fastlandet..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:254
 msgid "Then I must train my mages well."
-msgstr ""
+msgstr "Då måste jag öva mina magiker noga."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:269
 msgid ""
 "The enemies are defeated! Unfortunately, reinforcements will come and kill "
 "us. To the ship!"
 msgstr ""
+"Fienden är besegrad! Men hans truppförstärkningar är tyvärr på väg, och "
+"kommer att döda oss. Till skeppet!"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:185
 #: Mage_Republic/Scenarios/Lasthope.cfg:279
 msgid "We have failed to board the ship in time!"
-msgstr ""
+msgstr "Vi hann inte ta oss ombord på skeppet i tid!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:5
 msgid "Rescue the Humans"
-msgstr ""
+msgstr "Rädda människorna"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:13
 msgid "The mages were rescued by some humans."
-msgstr ""
+msgstr "Magikerna blev räddade av några människor."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:19
 msgid ""
@@ -367,6 +404,8 @@ msgid ""
 "attacking my kin. If you help me save them, we could offer you a ride "
 "further."
 msgstr ""
+"Ni kan inte följa med mig längre än till min hemö. Vandöda anfaller de mina. "
+"Om ni hjälper mig att rädda dem, så kan vi resa vidare sedan."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:44
 msgid ""
@@ -378,26 +417,33 @@ msgid ""
 "#Death of Heltor\n"
 "#Death of Unger"
 msgstr ""
+"\n"
+"Seger:\n"
+"@Döda fiendeledaren\n"
+"Nederlag:\n"
+"#Delter dör\n"
+"#Heltor dör\n"
+"#Unger dör"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:84
 msgid "The undead are unstoppable!"
-msgstr ""
+msgstr "Det går inte att stoppa de vandöda!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:99
 msgid "No! I have died!"
-msgstr ""
+msgstr "Nej! Jag dör!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:114
 msgid "The humans on this island have died."
-msgstr ""
+msgstr "Alla människor på den här ön har redan gått under."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:119
 msgid "We cannot leave this island, my mages.We're defeated!"
-msgstr ""
+msgstr "Vi kan inte komma härifrån, mina magiker. Vi är besegrade!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:174
 msgid "The Undead have been killed! The humans are free!"
-msgstr ""
+msgstr "De vandöda är nedgjorda! Människorna är fria!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:178
 msgid ""
@@ -405,50 +451,56 @@ msgid ""
 "board the galleon you came on and sail away. Heltor: you should come with "
 "the mages."
 msgstr ""
+"Tack för er hjälp! Jag hörde att ni behöver fortsätta er resa. Gå ombord på "
+"galjonen ni kom med och fortsätt er seglats. Heltor, åk du med magikerna."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:193
 msgid "Some mages have come!"
-msgstr ""
+msgstr "Det har kommit hit några magiker!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:198
 msgid "Indead we have."
-msgstr ""
+msgstr "Ja, det har vi verkligen."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:202
 msgid "Phew! Finally some relief!"
-msgstr ""
+msgstr "Puuh! Äntligen avlösning!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:207
 msgid "Both of you will die!"
-msgstr ""
+msgstr "Ni kommer båda att dö!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:212
 msgid ""
 "We do not have the melee units to fight these skeletons! Our swords go right "
 "through these monsters!"
 msgstr ""
+"Vi har inte några trupper som kan möta dessa skelett i närstrid. Våra svärd "
+"går rakt igenom dessa monster!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:217
 msgid ""
 " Wait Heltor!  I heard that impact weapons, along with magic, can harm the "
 "undead!"
 msgstr ""
+"Vänta, Heltor! Jag har hört att krossvapen och magiska vapen kan skada de "
+"vandöda!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:222
 msgid "We can arm the local populace with some maces off our ship."
-msgstr ""
+msgstr "Vi kan beväpna lokalbefolkningen med spikklubbor från skeppet."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:227
 msgid "It shall be done."
-msgstr ""
+msgstr "Skall ske."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:248
 msgid "Ready to serve."
-msgstr ""
+msgstr "Redo för tjänstgöring."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:269
 msgid "We found some dwarves!"
-msgstr ""
+msgstr "Vi har hittat några dvärgar!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:288
 msgid ""
@@ -456,14 +508,17 @@ msgid ""
 "brothers and I were forced into hiding. We will join you, and in return for "
 "your aid we'll give you all our gold."
 msgstr ""
+"Snälla, hjälp oss. De vandöda har inte gett oss någon rast eller ro de "
+"senaste dagarna. Mina bröder och jag har tvingats gömma oss. Låt oss ansluta "
+"oss till er, och i utbyte för er hjälp så ger vi er allt vårt guld."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:305
 msgid "The humans are dead. We cannot continue."
-msgstr ""
+msgstr "Människorna är döda. Vi kan inte fortsätta."
 
 #: Mage_Republic/Scenarios/Return.cfg:5
 msgid "The Return"
-msgstr ""
+msgstr "Återresan"
 
 #: Mage_Republic/Scenarios/Return.cfg:12
 msgid ""
@@ -471,6 +526,8 @@ msgid ""
 "become wastelands and many things had changed. Luckily, the mages found an "
 "empty keep."
 msgstr ""
+"Magikerna seglade till det som varit deras ö. Delar av ön hade lagts öde, "
+"och många saker hade ändrats. Som tur var så hittade magikerna en tom borg."
 
 #: Mage_Republic/Scenarios/Return.cfg:34
 msgid ""
@@ -481,30 +538,36 @@ msgid ""
 "#Death of Delter\n"
 "#Turns run out"
 msgstr ""
+"\n"
+"Seger:\n"
+"@Döda de vandöda\n"
+"Nederlag:\n"
+"#Delter dör\n"
+"#Dragen tar slut"
 
 #: Mage_Republic/Scenarios/Return.cfg:130
 msgid "Your land is defeated"
-msgstr ""
+msgstr "Ditt land är besegrat."
 
 #: Mage_Republic/Scenarios/Return.cfg:135
 msgid "Never!"
-msgstr ""
+msgstr "Aldrig!"
 
 #: Mage_Republic/Scenarios/Return.cfg:146
 msgid "We cannot survive any longer"
-msgstr ""
+msgstr "Vi kan inte överleva längre."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:5
 msgid "Surrounded!"
-msgstr ""
+msgstr "Omringade!"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:12
 msgid "The mages sailed away towards the mainland."
-msgstr ""
+msgstr "Magikerna seglade iväg till fastlandet."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:16
 msgid "The party disembarked only to face a group of undead."
-msgstr ""
+msgstr "Gruppen landsteg bara för att möta en grupp vandöda."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:39
 msgid ""
@@ -515,54 +578,60 @@ msgid ""
 "#Death of Delter\n"
 "#Turns run out"
 msgstr ""
+"\n"
+"Seger:\n"
+"@Överlev tills en undsättningstrupp anländer\n"
+"Nederlag:\n"
+"#Delter dör\n"
+"#Dragen tar slut"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:62
 msgid "The Mage Republic is doomed..."
-msgstr ""
+msgstr "Magikerrepubliken är dödsdömd..."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:99
 msgid "We must board the ship quickly."
-msgstr ""
+msgstr "Vi måste gå ombord på skeppet med en gång."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:112
 msgid "We escaped!!!"
-msgstr ""
+msgstr "Vi lyckades undkomma!"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:128
 msgid "Welcome to our lair."
-msgstr ""
+msgstr "Välkomna till vårt näste."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:133
 msgid "The Undead are everywhere!!!"
-msgstr ""
+msgstr "De vandöda är överallt!"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:138
 msgid "What did you expect?"
-msgstr ""
+msgstr "Vad hade du väntat dig?"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:143
 msgid "A peaceful land"
-msgstr ""
+msgstr "Ett fredligt land"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:148
 msgid "There are no more lands that you call peaceful."
-msgstr ""
+msgstr "Det finns inte längre några länder som man kan kalla fredliga."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:153
 msgid "Only we, the immortals, shall dominate."
-msgstr ""
+msgstr "Vi och enbart vi, de odödliga, skall härska."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:158
 msgid "And it is now your hour to die!!!"
-msgstr ""
+msgstr "Och nu är det dags för er att dö!"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:172
 msgid "We actually defeated the enemy leader!!!"
-msgstr ""
+msgstr "Vi lyckades faktiskt besegra fiendeledaren!"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:5
 msgid "The Wasteland"
-msgstr ""
+msgstr "Ödemarken"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:32
 #: Mage_Republic/Scenarios/Wasteland.cfg:51
@@ -575,6 +644,13 @@ msgid ""
 "#Death of Heltor\n"
 "#Death of Gelper"
 msgstr ""
+"\n"
+"Seger:\n"
+"@Döda fiendeledarna\n"
+"Nederlag:\n"
+"#Delter dör\n"
+"#Heltor dör\n"
+"#Gelper dör"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:40
 msgid ""
@@ -585,31 +661,37 @@ msgid ""
 "#Death of Delter\n"
 "#Death of Heltor"
 msgstr ""
+"\n"
+"Seger:\n"
+"@Döda fiendeledarna\n"
+"Nederlag:\n"
+"#Delter dör\n"
+"#Heltor dör"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:120
 msgid "No..."
-msgstr ""
+msgstr "Nej..."
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:139
 msgid "The... Wasteland..."
-msgstr ""
+msgstr "Ödemarken..."
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:143
 msgid "We cannot defeat the undead alone."
-msgstr ""
+msgstr "Vi kan inte besegra de vandöda ensamma."
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:211
 msgid "You didn't know about the wasteland, did you?"
-msgstr ""
+msgstr "Du kände inte till ödemarken, eller hur?"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:216
 msgid "I'm tired of speaking to these undead."
-msgstr ""
+msgstr "Jag är utled på att tala om de vandöda."
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:225
 msgid "Yes!!! No more undead!"
-msgstr ""
+msgstr "Ja! Inga fler vandöda!"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:237
 msgid "No!!! We are out of time..."
-msgstr ""
+msgstr "Nej! Vi hinner inte..."
