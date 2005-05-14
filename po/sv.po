@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-14 10:17+0200\n"
-"PO-Revision-Date: 2005-05-11 12:57+0200\n"
+"PO-Revision-Date: 2005-05-14 13:44+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -75,7 +75,7 @@ msgstr ""
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:52
 #: Mage_Republic/Scenarios/Return.cfg:41
 msgid "Delter"
-msgstr ""
+msgstr "Delter"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:72
 #: Mage_Republic/Scenarios/Wasteland.cfg:106
@@ -104,12 +104,12 @@ msgstr "Vi är dödsdömda!"
 #: Mage_Republic/Scenarios/Wasteland.cfg:167
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:125
 msgid "Gelper"
-msgstr ""
+msgstr "Gelper"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:121
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:140
 msgid "Konrad III"
-msgstr ""
+msgstr "Konrad III"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:159
 msgid "We shall kill you!"
@@ -270,19 +270,19 @@ msgstr "Utan honom är hoppet ute..."
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:128
 msgid "Muh-Delan X"
-msgstr ""
+msgstr "Muh-Delan X"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:146
 msgid "Muh-Delan IX"
-msgstr ""
+msgstr "Muh-Delan IX"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:164
 msgid "Muh-Delan V"
-msgstr ""
+msgstr "Muh-Delan V"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:182
 msgid "Paladin"
-msgstr ""
+msgstr "Korsriddare"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:199
 msgid "The Undead Hordes of the Muh clan are defeated."
@@ -318,20 +318,19 @@ msgstr ""
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:292
 msgid "Lord Arnu"
-msgstr ""
+msgstr "Furst Arnu"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:300
 msgid "Awaedock"
-msgstr ""
+msgstr "Awaedock"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:308
 msgid "Kifret"
-msgstr ""
+msgstr "Kifret"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:316
-#, fuzzy
 msgid "Jagex"
-msgstr "Magiker"
+msgstr "Jagex"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:323
 msgid "Look! Mages! We shall help them."
@@ -382,7 +381,7 @@ msgstr ""
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:62
 msgid "Falcor"
-msgstr ""
+msgstr "Falcor"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:77
 msgid "No! The mages on this island are defeated..."
@@ -390,20 +389,19 @@ msgstr "Nej! Magikerna på den här ön har blivit besegrade..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:92
 msgid "Muh-Dul"
-msgstr ""
+msgstr "Muh-Dul"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:111
 msgid "Muh-Lerman"
-msgstr ""
+msgstr "Muh-Lerman"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:144
 msgid "I sense the presence of undead."
 msgstr "Jag känner de vandödas närvaro."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:152
-#, fuzzy
 msgid "The Ancient Ghost"
-msgstr "Ja! Det uråldriga spöket är nedgjort!"
+msgstr "Det uråldriga spöket"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:189
 msgid "Now you shall die!"
@@ -499,7 +497,7 @@ msgstr ""
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:61
 msgid "Heltor"
-msgstr ""
+msgstr "Heltor"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:86
 msgid "The undead are unstoppable!"
@@ -519,11 +517,11 @@ msgstr "Vi kan inte komma härifrån, mina magiker. Vi är besegrade!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:142
 msgid "Muh-Flair"
-msgstr ""
+msgstr "Muh-Flair"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:158
 msgid "Unger"
-msgstr ""
+msgstr "Unger"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:178
 msgid "The Undead have been killed! The humans are free!"
@@ -580,11 +578,11 @@ msgstr "Skall ske."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:238
 msgid "Raeddodock"
-msgstr ""
+msgstr "Raeddodock"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:246
 msgid "Haeddodock"
-msgstr ""
+msgstr "Haeddodock"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:253
 msgid "Ready to serve."
@@ -592,7 +590,7 @@ msgstr "Redo för tjänstgöring."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:267
 msgid "Urlo"
-msgstr ""
+msgstr "Urlo"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:275
 msgid "We found some dwarves!"
@@ -600,11 +598,11 @@ msgstr "Vi har hittat några dvärgar!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:280
 msgid "Furlo"
-msgstr ""
+msgstr "Furlo"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:288
 msgid "Durlo"
-msgstr ""
+msgstr "Durlo"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:296
 msgid ""
@@ -651,19 +649,19 @@ msgstr ""
 
 #: Mage_Republic/Scenarios/Return.cfg:75
 msgid "Lichy II"
-msgstr ""
+msgstr "Lichy II"
 
 #: Mage_Republic/Scenarios/Return.cfg:90
 msgid "Gerken"
-msgstr ""
+msgstr "Gerken"
 
 #: Mage_Republic/Scenarios/Return.cfg:105
 msgid "Fatar"
-msgstr ""
+msgstr "Fatar"
 
 #: Mage_Republic/Scenarios/Return.cfg:119
 msgid "Genfer"
-msgstr ""
+msgstr "Genfer"
 
 #: Mage_Republic/Scenarios/Return.cfg:135
 msgid "Your land is defeated"
@@ -711,7 +709,7 @@ msgstr "Magikerrepubliken är dödsdömd..."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:77
 msgid "Muh-Derner III"
-msgstr ""
+msgstr "Muh-Derner III"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:101
 msgid "We must board the ship quickly."
@@ -806,11 +804,11 @@ msgstr "Vi kan inte besegra de vandöda ensamma."
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:184
 msgid "Muh-Rahrg"
-msgstr ""
+msgstr "Muh-Rahrg"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:199
 msgid "Muh-Rahrg III"
-msgstr ""
+msgstr "Muh-Rahrg III"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:216
 msgid "You didn't know about the wasteland, did you?"
