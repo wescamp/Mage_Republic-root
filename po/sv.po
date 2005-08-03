@@ -3,14 +3,14 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-05-19 09:57+0200\n"
-"PO-Revision-Date: 2005-07-24 16:58+0200\n"
+"PO-Revision-Date: 2005-08-03 17:01+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.10.1\n"
+"X-Generator: KBabel 1.10.2\n"
 
 #: Mage_Republic.cfg:10
 msgid "The Mage Republic"
@@ -282,7 +282,7 @@ msgstr "Muh-Delan V"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:182
 msgid "Paladin"
-msgstr "Korsriddare"
+msgstr "Tempelriddare"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:199
 msgid "The Undead Hordes of the Muh clan are defeated."
