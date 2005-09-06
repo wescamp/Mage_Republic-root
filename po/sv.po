@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-09-05 14:49+0200\n"
-"PO-Revision-Date: 2005-08-03 17:01+0200\n"
+"PO-Revision-Date: 2005-09-06 17:51+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -37,7 +37,6 @@ msgid "Silver Mage"
 msgstr "Silvermagiker"
 
 #: Mage_Republic.cfg:17
-#, fuzzy
 msgid "Help the mages fight the undead in the Far Island."
 msgstr "Hjälp magikerna bekämpa de vandöda på Ensliga ön"
 
@@ -201,16 +200,14 @@ msgid "I see... We'll accept them, but it is their choice."
 msgstr "Jag förstår... Vi tar emot dem, men de får välja själva."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:169
-#, fuzzy
 msgid "Let's Join the dwarves!"
-msgstr "Låt oss ansluta oss till dvärgarna."
+msgstr "Låt oss ansluta oss till dvärgarna!"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:173
 msgid "Thank you for joining us, mages."
 msgstr "Tack för att ni kom med oss, magiker."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:177
-#, fuzzy
 msgid "Yay! I'm reunited with my kin."
 msgstr "Jippi! Jag har återförenats med de mina."
 
@@ -223,7 +220,6 @@ msgid "Oh well..."
 msgstr "Nåväl..."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:202
-#, fuzzy
 msgid "Then I will leave you."
 msgstr "Då lämnar jag er."
 
@@ -516,7 +512,6 @@ msgid "The humans on this island have died."
 msgstr "Alla människor på den här ön har redan gått under."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:118
-#, fuzzy
 msgid "We cannot leave this island, my mages. We're defeated!"
 msgstr "Vi kan inte komma härifrån, mina magiker. Vi är besegrade!"
 
@@ -546,9 +541,8 @@ msgid "Some mages have come!"
 msgstr "Det har kommit hit några magiker!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:203
-#, fuzzy
 msgid "Indeed we have."
-msgstr "Ja, det har vi verkligen."
+msgstr "Förvisso."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:207
 msgid "Phew! Finally some relief!"
@@ -629,7 +623,6 @@ msgid "The Return"
 msgstr "Återresan"
 
 #: Mage_Republic/Scenarios/Return.cfg:12
-#, fuzzy
 msgid ""
 "The mages sailed to what used to be their island. Part of it had become "
 "wastelands and many things had changed. Luckily, the mages found an empty "
@@ -671,7 +664,6 @@ msgid "Genfer"
 msgstr "Genfer"
 
 #: Mage_Republic/Scenarios/Return.cfg:133
-#, fuzzy
 msgid "Your land is defeated."
 msgstr "Ditt land är besegrat."
 
@@ -680,7 +672,6 @@ msgid "Never!"
 msgstr "Aldrig!"
 
 #: Mage_Republic/Scenarios/Return.cfg:149
-#, fuzzy
 msgid "We cannot survive any longer."
 msgstr "Vi kan inte överleva längre."
 
@@ -741,9 +732,8 @@ msgid "What did you expect?"
 msgstr "Vad hade du väntat dig?"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:153
-#, fuzzy
 msgid "A peaceful land."
-msgstr "Ett fredligt land"
+msgstr "Ett fredligt land."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:158
 msgid "There are no more lands that you call peaceful."
@@ -767,19 +757,19 @@ msgstr "Ödemarken"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:30
 msgid "Kill enemy leaders"
-msgstr ""
+msgstr "Döda fiendeledarna"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:34
 msgid "Death of Delter"
-msgstr ""
+msgstr "Delter dör"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:38
 msgid "Death of Heltor"
-msgstr ""
+msgstr "Heltor dör"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:49
 msgid "Death of Gelper"
-msgstr ""
+msgstr "Gelper dör"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:115
 msgid "No..."
@@ -816,35 +806,3 @@ msgstr "Ja! Inga fler vandöda!"
 #: Mage_Republic/Scenarios/Wasteland.cfg:225
 msgid "No!!! We are out of time..."
 msgstr "Nej! Vi hinner inte..."
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Kill enemy leaders\n"
-#~ "Defeat:\n"
-#~ "#Death of Delter\n"
-#~ "#Death of Heltor\n"
-#~ "#Death of Gelper"
-#~ msgstr ""
-#~ "\n"
-#~ "Seger:\n"
-#~ "@Döda fiendeledarna\n"
-#~ "Nederlag:\n"
-#~ "#Delter dör\n"
-#~ "#Heltor dör\n"
-#~ "#Gelper dör"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Kill enemy leaders\n"
-#~ "Defeat:\n"
-#~ "#Death of Delter\n"
-#~ "#Death of Heltor"
-#~ msgstr ""
-#~ "\n"
-#~ "Seger:\n"
-#~ "@Döda fiendeledarna\n"
-#~ "Nederlag:\n"
-#~ "#Delter dör\n"
-#~ "#Heltor dör"
