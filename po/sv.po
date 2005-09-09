@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-09-07 12:39+0200\n"
-"PO-Revision-Date: 2005-09-06 17:51+0200\n"
+"POT-Creation-Date: 2005-09-09 12:30+0200\n"
+"PO-Revision-Date: 2005-09-08 17:31+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
 "MIME-Version: 1.0\n"
@@ -68,66 +68,68 @@ msgstr ""
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:36
 msgid "Escape to the northernmost dwarven keep when road is completed"
-msgstr ""
+msgstr "Fly till det norra dvärgfästet när vägen är färdigbyggd"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:41
 msgid ""
 "OR\n"
 "Survive for 40 days"
 msgstr ""
+"ELLER\n"
+"Överlev i 40 dygn"
 
-#: Mage_Republic/Scenarios/Rescue_Humans.cfg:48
-#: Mage_Republic/Scenarios/Wasteland.cfg:34
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:45
-#: Mage_Republic/Scenarios/Surrounded.cfg:43
-#: Mage_Republic/Scenarios/Lasthope.cfg:49
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:47
+#: Mage_Republic/Scenarios/Lasthope.cfg:49
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:48
 #: Mage_Republic/Scenarios/Return.cfg:39
+#: Mage_Republic/Scenarios/Surrounded.cfg:43
+#: Mage_Republic/Scenarios/Wasteland.cfg:34
 msgid "Death of Delter"
 msgstr "Delter dör"
 
-#: Mage_Republic/Scenarios/Rescue_Humans.cfg:52
-#: Mage_Republic/Scenarios/Wasteland.cfg:38
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:49
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:51
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:52
+#: Mage_Republic/Scenarios/Wasteland.cfg:38
 msgid "Death of Heltor"
 msgstr "Heltor dör"
 
-#: Mage_Republic/Scenarios/Wasteland.cfg:49
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:53
+#: Mage_Republic/Scenarios/Wasteland.cfg:49
 msgid "Death of Gelper"
 msgstr "Gelper dör"
 
-#: Mage_Republic/Scenarios/Rescue_Humans.cfg:60
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:57
-#: Mage_Republic/Scenarios/Surrounded.cfg:47
-#: Mage_Republic/Scenarios/Lasthope.cfg:53
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:59
+#: Mage_Republic/Scenarios/Lasthope.cfg:53
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:60
 #: Mage_Republic/Scenarios/Return.cfg:43
+#: Mage_Republic/Scenarios/Surrounded.cfg:47
 msgid "Turns run out"
-msgstr ""
+msgstr "Dragen tar slut"
 
-#: Mage_Republic/Scenarios/Rescue_Humans.cfg:71
-#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:37
-#: Mage_Republic/Scenarios/Wasteland.cfg:62
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:67
-#: Mage_Republic/Scenarios/Surrounded.cfg:58
-#: Mage_Republic/Scenarios/Lasthope.cfg:64
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:37
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:71
+#: Mage_Republic/Scenarios/Lasthope.cfg:64
+#: Mage_Republic/Scenarios/Rescue_Humans.cfg:71
 #: Mage_Republic/Scenarios/Return.cfg:53
+#: Mage_Republic/Scenarios/Surrounded.cfg:58
+#: Mage_Republic/Scenarios/Wasteland.cfg:62
 msgid "Delter"
 msgstr "Delter"
 
-#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:71
-#: Mage_Republic/Scenarios/Wasteland.cfg:102
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:100
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:71
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:94
 #: Mage_Republic/Scenarios/Return.cfg:68
+#: Mage_Republic/Scenarios/Wasteland.cfg:102
 msgid "We have been defeated."
 msgstr "Vi är besegrade!"
 
-#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:84
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:113
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:84
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:109
 msgid "Must...help...Delter..."
 msgstr "Måste...hjälpa...Delter"
@@ -141,14 +143,14 @@ msgstr "Nej! Dvärgarna är besegrade."
 msgid "We are doomed!!!"
 msgstr "Vi är dödsdömda!"
 
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:149
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:103
 #: Mage_Republic/Scenarios/Wasteland.cfg:133
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:149
 msgid "Gelper"
 msgstr "Gelper"
 
-#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:118
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:164
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:118
 msgid "Konrad III"
 msgstr "Konrad III"
 
@@ -281,16 +283,15 @@ msgid "And so the mages sailed away, only to fight another battle."
 msgstr ""
 "Och så seglade magikerna sin väg, bara för att få utkämpa en annan strid."
 
-#: Mage_Republic/Scenarios/Wasteland.cfg:30
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:43
 #: Mage_Republic/Scenarios/Return.cfg:35
+#: Mage_Republic/Scenarios/Wasteland.cfg:30
 msgid "Kill enemy leaders"
 msgstr "Döda fiendeledarna"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:55
-#, fuzzy
 msgid "Death of an ally leader"
-msgstr "Gelper dör"
+msgstr "En allierad ledare dör"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:129
 msgid "Ill not go so easi- Arggh!!!"
@@ -397,7 +398,7 @@ msgstr ""
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:45
 msgid "Escape to the ship"
-msgstr ""
+msgstr "Fly till skeppet"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:81
 msgid "Falcor"
@@ -475,8 +476,8 @@ msgstr ""
 "Fienden är besegrad! Men hans truppförstärkningar är tyvärr på väg, och "
 "kommer att döda oss. Till skeppet!"
 
-#: Mage_Republic/Scenarios/Surrounded.cfg:206
 #: Mage_Republic/Scenarios/Lasthope.cfg:310
+#: Mage_Republic/Scenarios/Surrounded.cfg:206
 msgid "We have failed to board the ship in time!"
 msgstr "Vi hann inte ta oss ombord på skeppet i tid!"
 
@@ -498,14 +499,12 @@ msgstr ""
 "Om ni hjälper mig att rädda dem, så kan vi resa vidare sedan."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:44
-#, fuzzy
 msgid "Kill enemy leader"
-msgstr "Döda fiendeledarna"
+msgstr "Döda fiendens ledare"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:56
-#, fuzzy
 msgid "Death of Unger"
-msgstr "Gelper dör"
+msgstr "Unger dör"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:80
 msgid "Heltor"
@@ -685,7 +684,7 @@ msgstr "Gruppen landsteg bara för att möta en grupp vandöda."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:39
 msgid "Survive until a rescue party comes"
-msgstr ""
+msgstr "Överlev tills undsättningen kommer"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:72
 msgid "The Mage Republic is doomed..."
@@ -774,84 +773,3 @@ msgstr "Ja! Inga fler vandöda!"
 #: Mage_Republic/Scenarios/Wasteland.cfg:225
 msgid "No!!! We are out of time..."
 msgstr "Nej! Vi hinner inte..."
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Kill enemy leaders\n"
-#~ "Defeat:\n"
-#~ "#Death of Delter\n"
-#~ "#Death of Heltor\n"
-#~ "#Death of an ally leader\n"
-#~ "#Turns run out"
-#~ msgstr ""
-#~ "\n"
-#~ "Seger:\n"
-#~ "@Döda fiendeledarna\n"
-#~ "Nederlag:\n"
-#~ "#Delter dör\n"
-#~ "#Heltor dör\n"
-#~ "#En allierad ledare dör\n"
-#~ "#Dragen tar slut"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Escape to the ship.\n"
-#~ "Defeat:\n"
-#~ "#Death of Delter\n"
-#~ "#Turns run out"
-#~ msgstr ""
-#~ "\n"
-#~ "Seger:\n"
-#~ "@Fly till skeppet\n"
-#~ "Nederlag:\n"
-#~ "#Delter dör\n"
-#~ "#Dragen tar slut"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Kill enemy leader\n"
-#~ "Defeat:\n"
-#~ "#Death of Delter\n"
-#~ "#Death of Heltor\n"
-#~ "#Death of Unger"
-#~ msgstr ""
-#~ "\n"
-#~ "Seger:\n"
-#~ "@Döda fiendeledaren\n"
-#~ "Nederlag:\n"
-#~ "#Delter dör\n"
-#~ "#Heltor dör\n"
-#~ "#Unger dör"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Kill the undead\n"
-#~ "Defeat:\n"
-#~ "#Death of Delter\n"
-#~ "#Turns run out"
-#~ msgstr ""
-#~ "\n"
-#~ "Seger:\n"
-#~ "@Döda de vandöda\n"
-#~ "Nederlag:\n"
-#~ "#Delter dör\n"
-#~ "#Dragen tar slut"
-
-#~ msgid ""
-#~ "\n"
-#~ "Victory:\n"
-#~ "@Survive until a rescue party comes.\n"
-#~ "Defeat:\n"
-#~ "#Death of Delter\n"
-#~ "#Turns run out"
-#~ msgstr ""
-#~ "\n"
-#~ "Seger:\n"
-#~ "@Överlev tills en undsättningstrupp anländer\n"
-#~ "Nederlag:\n"
-#~ "#Delter dör\n"
-#~ "#Dragen tar slut"
