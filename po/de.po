@@ -6,7 +6,7 @@ msgstr ""
 "Project-Id-Version: wescamp\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-09-07 12:39+0200\n"
-"PO-Revision-Date: 2005-10-07 00:19+0200\n"
+"PO-Revision-Date: 2005-10-07 21:31+0200\n"
 "Last-Translator: Allefant <allefant@gmail.com>\n"
 "Language-Team: German <gnome-de@gnome.org>\n"
 "MIME-Version: 1.0\n"
@@ -111,7 +111,7 @@ msgstr "Tod von Gelper"
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:59
 #: Mage_Republic/Scenarios/Return.cfg:43
 msgid "Turns run out"
-msgstr "Rundenlimit überschritten."
+msgstr "Zeit läuft ab"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:71
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:37
@@ -209,7 +209,7 @@ msgid ""
 "noticed some dwarves."
 msgstr ""
 "Danach begaben die Magier sich in den Wald, wo Elfen lebten. Auf dem Weg "
-"trafen sie einige Zwerge."
+"dorthin trafen sie einige Zwerge."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:137
 msgid "Look! Some mages!"
@@ -713,7 +713,7 @@ msgstr "Überlebt bis ein Rettungskommando eintrifft."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:72
 msgid "The Mage Republic is doomed..."
-msgstr "Die Republik der Magier ist verloren..."
+msgstr "Die Magier Republik ist verloren..."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:86
 msgid "Muh-Derner III"
