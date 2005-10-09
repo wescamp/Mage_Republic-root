@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-09-09 12:30+0200\n"
+"POT-Creation-Date: 2005-10-09 21:59+0200\n"
 "PO-Revision-Date: 2005-09-08 17:31+0200\n"
 "Last-Translator: tephlon\n"
 "Language-Team: Swedish\n"
@@ -44,33 +44,11 @@ msgstr "Hjälp magikerna bekämpa de vandöda på Ensliga ön"
 msgid "The Dwarven Fort"
 msgstr "Dvärgfortet"
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:30
-msgid ""
-"\n"
-"Victory:\n"
-"@Escape to the northernmost dwarven keep when road is completed\n"
-"OR\n"
-"@Survive for 40 days\n"
-"Defeat:\n"
-"#Death of Delter\n"
-"#Death of Heltor\n"
-"#Death of Gelper"
-msgstr ""
-"\n"
-"Seger:\n"
-"@Fly till den nordligaste dvärgutposten när vägen är färdigställd\n"
-"ELLER\n"
-"@Håll stånd i 40 dagar\n"
-"Nederlag:\n"
-"#Delter dör\n"
-"#Heltor dör\n"
-"#Gelper dör"
-
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:36
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:28
 msgid "Escape to the northernmost dwarven keep when road is completed"
 msgstr "Fly till det norra dvärgfästet när vägen är färdigbyggd"
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:41
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:33
 msgid ""
 "OR\n"
 "Survive for 40 days"
@@ -78,99 +56,99 @@ msgstr ""
 "ELLER\n"
 "Överlev i 40 dygn"
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:45
-#: Mage_Republic/Scenarios/Furious_Battle.cfg:47
-#: Mage_Republic/Scenarios/Lasthope.cfg:49
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:48
-#: Mage_Republic/Scenarios/Return.cfg:39
+#: Mage_Republic/Scenarios/Wasteland.cfg:30
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:37
 #: Mage_Republic/Scenarios/Surrounded.cfg:43
-#: Mage_Republic/Scenarios/Wasteland.cfg:34
+#: Mage_Republic/Scenarios/Lasthope.cfg:49
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:47
+#: Mage_Republic/Scenarios/Return.cfg:39
 msgid "Death of Delter"
 msgstr "Delter dör"
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:49
-#: Mage_Republic/Scenarios/Furious_Battle.cfg:51
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:52
-#: Mage_Republic/Scenarios/Wasteland.cfg:38
+#: Mage_Republic/Scenarios/Wasteland.cfg:34
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:41
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:51
 msgid "Death of Heltor"
 msgstr "Heltor dör"
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:53
-#: Mage_Republic/Scenarios/Wasteland.cfg:49
+#: Mage_Republic/Scenarios/Wasteland.cfg:45
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:45
 msgid "Death of Gelper"
 msgstr "Gelper dör"
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:57
-#: Mage_Republic/Scenarios/Furious_Battle.cfg:59
-#: Mage_Republic/Scenarios/Lasthope.cfg:53
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:60
-#: Mage_Republic/Scenarios/Return.cfg:43
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:49
 #: Mage_Republic/Scenarios/Surrounded.cfg:47
+#: Mage_Republic/Scenarios/Lasthope.cfg:53
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:59
+#: Mage_Republic/Scenarios/Return.cfg:43
 msgid "Turns run out"
 msgstr "Dragen tar slut"
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:67
-#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:37
-#: Mage_Republic/Scenarios/Furious_Battle.cfg:71
-#: Mage_Republic/Scenarios/Lasthope.cfg:64
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:71
-#: Mage_Republic/Scenarios/Return.cfg:53
+#: Mage_Republic/Scenarios/Dwarves_Elves.cfg:37
+#: Mage_Republic/Scenarios/Wasteland.cfg:58
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:59
 #: Mage_Republic/Scenarios/Surrounded.cfg:58
-#: Mage_Republic/Scenarios/Wasteland.cfg:62
+#: Mage_Republic/Scenarios/Lasthope.cfg:64
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:71
+#: Mage_Republic/Scenarios/Return.cfg:53
 msgid "Delter"
 msgstr "Delter"
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:100
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:71
+#: Mage_Republic/Scenarios/Wasteland.cfg:98
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:92
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:94
 #: Mage_Republic/Scenarios/Return.cfg:68
-#: Mage_Republic/Scenarios/Wasteland.cfg:102
 msgid "We have been defeated."
 msgstr "Vi är besegrade!"
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:113
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:84
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:105
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:109
 msgid "Must...help...Delter..."
 msgstr "Måste...hjälpa...Delter"
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:126
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:118
 msgid "No!!! The dwarves are defeated."
 msgstr "Nej! Dvärgarna är besegrade."
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:130
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:122
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:283
 msgid "We are doomed!!!"
 msgstr "Vi är dödsdömda!"
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:149
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:103
-#: Mage_Republic/Scenarios/Wasteland.cfg:133
+#: Mage_Republic/Scenarios/Wasteland.cfg:129
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:141
 msgid "Gelper"
 msgstr "Gelper"
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:164
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:118
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:156
 msgid "Konrad III"
 msgstr "Konrad III"
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:195
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:187
 msgid "We shall kill you!"
 msgstr "Vi skall döda er!"
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:200
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:192
 msgid "With these mages as my allies, you don't have a chance."
 msgstr "När jag har de här magikerna som mina allierade, så är du chanslös."
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:205
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:197
 msgid "These puny mages can't even kill one of my people!!!"
 msgstr "De ynkliga magikerna kan inte döda ens en enda av mitt folk!"
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:209
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:201
 msgid "Yes, the elves do LOVE bragging."
 msgstr "Ja, alverna ÄLSKAR ju att skryta."
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:214
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:206
 msgid ""
 "Shh! My men are building a road. If we survive until it's finished, we can "
 "run away."
@@ -178,19 +156,19 @@ msgstr ""
 "Sch! Mina mannar bygger en väg. Om vi kan hålla stånd tills den är klar, så "
 "kan vi fly."
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:219
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:211
 msgid "Where will the road lead?"
 msgstr "Vart går vägen?"
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:224
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:216
 msgid "That is a mystery."
 msgstr "Det är ett mysterium."
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:235
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:227
 msgid "Yes!!! These elves have been defeated."
 msgstr "Ja! Alverna är besegrade."
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:266
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:258
 msgid "We can escape!"
 msgstr "Vi kan fly nu!"
 
@@ -283,9 +261,9 @@ msgid "And so the mages sailed away, only to fight another battle."
 msgstr ""
 "Och så seglade magikerna sin väg, bara för att få utkämpa en annan strid."
 
+#: Mage_Republic/Scenarios/Wasteland.cfg:26
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:43
 #: Mage_Republic/Scenarios/Return.cfg:35
-#: Mage_Republic/Scenarios/Wasteland.cfg:30
 msgid "Kill enemy leaders"
 msgstr "Döda fiendeledarna"
 
@@ -476,8 +454,8 @@ msgstr ""
 "Fienden är besegrad! Men hans truppförstärkningar är tyvärr på väg, och "
 "kommer att döda oss. Till skeppet!"
 
-#: Mage_Republic/Scenarios/Lasthope.cfg:310
 #: Mage_Republic/Scenarios/Surrounded.cfg:206
+#: Mage_Republic/Scenarios/Lasthope.cfg:310
 msgid "We have failed to board the ship in time!"
 msgstr "Vi hann inte ta oss ombord på skeppet i tid!"
 
@@ -738,38 +716,59 @@ msgstr "Vi lyckades faktiskt besegra fiendeledaren!"
 msgid "The Wasteland"
 msgstr "Ödemarken"
 
-#: Mage_Republic/Scenarios/Wasteland.cfg:115
+#: Mage_Republic/Scenarios/Wasteland.cfg:111
 msgid "No..."
 msgstr "Nej..."
 
-#: Mage_Republic/Scenarios/Wasteland.cfg:150
+#: Mage_Republic/Scenarios/Wasteland.cfg:146
 msgid "The... Wasteland..."
 msgstr "Ödemarken..."
 
-#: Mage_Republic/Scenarios/Wasteland.cfg:154
+#: Mage_Republic/Scenarios/Wasteland.cfg:150
 msgid "We cannot defeat the undead alone."
 msgstr "Vi kan inte besegra de vandöda ensamma."
 
-#: Mage_Republic/Scenarios/Wasteland.cfg:167
+#: Mage_Republic/Scenarios/Wasteland.cfg:163
 msgid "Muh-Rahrg"
 msgstr "Muh-Rahrg"
 
-#: Mage_Republic/Scenarios/Wasteland.cfg:182
+#: Mage_Republic/Scenarios/Wasteland.cfg:178
 msgid "Muh-Rahrg III"
 msgstr "Muh-Rahrg III"
 
-#: Mage_Republic/Scenarios/Wasteland.cfg:199
+#: Mage_Republic/Scenarios/Wasteland.cfg:195
 msgid "You didn't know about the wasteland, did you?"
 msgstr "Du kände inte till ödemarken, eller hur?"
 
-#: Mage_Republic/Scenarios/Wasteland.cfg:204
+#: Mage_Republic/Scenarios/Wasteland.cfg:200
 msgid "I'm tired of speaking to these undead."
 msgstr "Jag är utled på att tala om de vandöda."
 
-#: Mage_Republic/Scenarios/Wasteland.cfg:213
+#: Mage_Republic/Scenarios/Wasteland.cfg:209
 msgid "Yes!!! No more undead!"
 msgstr "Ja! Inga fler vandöda!"
 
-#: Mage_Republic/Scenarios/Wasteland.cfg:225
+#: Mage_Republic/Scenarios/Wasteland.cfg:221
 msgid "No!!! We are out of time..."
 msgstr "Nej! Vi hinner inte..."
+
+#~ msgid ""
+#~ "\n"
+#~ "Victory:\n"
+#~ "@Escape to the northernmost dwarven keep when road is completed\n"
+#~ "OR\n"
+#~ "@Survive for 40 days\n"
+#~ "Defeat:\n"
+#~ "#Death of Delter\n"
+#~ "#Death of Heltor\n"
+#~ "#Death of Gelper"
+#~ msgstr ""
+#~ "\n"
+#~ "Seger:\n"
+#~ "@Fly till den nordligaste dvärgutposten när vägen är färdigställd\n"
+#~ "ELLER\n"
+#~ "@Håll stånd i 40 dagar\n"
+#~ "Nederlag:\n"
+#~ "#Delter dör\n"
+#~ "#Heltor dör\n"
+#~ "#Gelper dör"
