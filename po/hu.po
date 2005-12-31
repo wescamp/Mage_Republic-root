@@ -1,10 +1,12 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2005-10-09 21:59+0200\n"
-"PO-Revision-Date: 2005-05-08 21:56+0200\n"
-"Last-Translator: Automatically generated\n"
+"PO-Revision-Date: 2005-12-31 13:45+0100\n"
+"Last-Translator: Con Salamander (Kovács Dániel) <consalamander@kalandozok."
+"hu>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -13,45 +15,47 @@ msgstr ""
 
 #: Mage_Republic.cfg:10
 msgid "The Mage Republic"
-msgstr ""
+msgstr "A Mágus Köztársaság"
 
 #: Mage_Republic.cfg:14
 msgid "Mage"
-msgstr ""
+msgstr "Mágus"
 
 #: Mage_Republic.cfg:14
 msgid "(easiest)"
-msgstr ""
+msgstr "(legkönnyebb)"
 
 #: Mage_Republic.cfg:15
 msgid "White Mage"
-msgstr ""
+msgstr "Fehér Mágus"
 
 #: Mage_Republic.cfg:16
 msgid "(hardest)"
-msgstr ""
+msgstr "(legnehezebb)"
 
 #: Mage_Republic.cfg:16
 msgid "Silver Mage"
-msgstr ""
+msgstr "Ezüst Mágus"
 
 #: Mage_Republic.cfg:17
 msgid "Help the mages fight the undead in the Far Island."
-msgstr ""
+msgstr "Segíts a mágusoknak az élőholtak elleni harcban a Messzi Szigeten"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:5
 msgid "The Dwarven Fort"
-msgstr ""
+msgstr "A Törp erőd"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:28
 msgid "Escape to the northernmost dwarven keep when road is completed"
-msgstr ""
+msgstr "Elmenekülsz a legészakibb törpe vár felé, amikor az út kész"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:33
 msgid ""
 "OR\n"
 "Survive for 40 days"
 msgstr ""
+"OR\n"
+"Túlélsz 40 napot"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:48
 #: Mage_Republic/Scenarios/Wasteland.cfg:30
@@ -61,19 +65,19 @@ msgstr ""
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:47
 #: Mage_Republic/Scenarios/Return.cfg:39
 msgid "Death of Delter"
-msgstr ""
+msgstr "Delter elesik"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:52
 #: Mage_Republic/Scenarios/Wasteland.cfg:34
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:41
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:51
 msgid "Death of Heltor"
-msgstr ""
+msgstr "Heltor elesik"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:45
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:45
 msgid "Death of Gelper"
-msgstr ""
+msgstr "Gelper elesik"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:60
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:49
@@ -82,7 +86,7 @@ msgstr ""
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:59
 #: Mage_Republic/Scenarios/Return.cfg:43
 msgid "Turns run out"
-msgstr ""
+msgstr "Lejár a körök száma"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:71
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:37
@@ -93,7 +97,7 @@ msgstr ""
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:71
 #: Mage_Republic/Scenarios/Return.cfg:53
 msgid "Delter"
-msgstr ""
+msgstr "Delter"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:71
 #: Mage_Republic/Scenarios/Wasteland.cfg:98
@@ -101,355 +105,372 @@ msgstr ""
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:94
 #: Mage_Republic/Scenarios/Return.cfg:68
 msgid "We have been defeated."
-msgstr ""
+msgstr "Elvesztünk."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:84
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:105
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:109
 msgid "Must...help...Delter..."
-msgstr ""
+msgstr "Segí...teni...kell...Delter...nek..."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:118
 msgid "No!!! The dwarves are defeated."
-msgstr ""
+msgstr "Nem!!! Vége a törpöknek."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:122
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:283
 msgid "We are doomed!!!"
-msgstr ""
+msgstr "Elpusztítottak minket!"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:103
 #: Mage_Republic/Scenarios/Wasteland.cfg:129
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:141
 msgid "Gelper"
-msgstr ""
+msgstr "Gelper"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:118
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:156
 msgid "Konrad III"
-msgstr ""
+msgstr "III. Konrád"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:187
 msgid "We shall kill you!"
-msgstr ""
+msgstr "Megölünk téged!"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:192
 msgid "With these mages as my allies, you don't have a chance."
-msgstr ""
+msgstr "Ezekkel a mágusokkal az oldalamon esélyed sincs ellenem."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:197
 msgid "These puny mages can't even kill one of my people!!!"
 msgstr ""
+"Ezek a puhány mágusok egyetlen embert sem tudnak megölni az enyéim közül."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:201
 msgid "Yes, the elves do LOVE bragging."
-msgstr ""
+msgstr "Igen, a tündék IMÁDNAK hencegni."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:206
 msgid ""
 "Shh! My men are building a road. If we survive until it's finished, we can "
 "run away."
 msgstr ""
+"Shhh! Az embereim építik az utat. Ha túléljük, amíg elkészül, akkor "
+"elmenekülhetünk."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:211
 msgid "Where will the road lead?"
-msgstr ""
+msgstr "Hová vezet majd az út?"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:216
 msgid "That is a mystery."
-msgstr ""
+msgstr "Ez rejtély."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:227
 msgid "Yes!!! These elves have been defeated."
-msgstr ""
+msgstr "Igen!!! Ezek a tündék elvesztek."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:258
 msgid "We can escape!"
-msgstr ""
+msgstr "Elmenekülhetünk!"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:5
 msgid "Dwarves and Elves"
-msgstr ""
+msgstr "Törpök és tündék"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:12
 msgid ""
 "Next the mages went into the forest where elves dwelled. On the way, they "
 "noticed some dwarves."
 msgstr ""
+"Ezután a mágusok betértek a tündékkel teli erdőbe. Az úton találkoztak "
+"néhány törppel."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:137
 msgid "Look! Some mages!"
-msgstr ""
+msgstr "Nézzétek! Mágusok!"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:142
 msgid "Greetings, elves."
-msgstr ""
+msgstr "Üdvözlet néktek, tündék!"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:146
 msgid "Welcome mages."
-msgstr ""
+msgstr "Isten hozott titeket, mágusok!"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:151
 msgid ""
 "Dwarves, go away!!! And take these mages if you want. We can defeat you even "
 "without them!"
 msgstr ""
+"Törpök, tűnés innen! És vigyétek ezeket a mágusokat is, ha kellenek. Még "
+"nélkülük is el tudunk tiporni titeket!"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:155
 msgid "The elves LOVE bragging."
-msgstr ""
+msgstr "A tündék IMÁDNAK hencegni."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:159
 msgid "My dwarves: should we let them join us?"
-msgstr ""
+msgstr "Törpjeim: engedélyezzük-e, hogy csatlakozzanak hozzánk?"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:163
 msgid "Let them join."
-msgstr ""
+msgstr "Engedjük csatlakozni őket!"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:167
 msgid "I see... We'll accept them, but it is their choice."
-msgstr ""
+msgstr "Szóval... Mi elfogadjuk őket, de ez az ő választásuk."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:169
 msgid "Let's Join the dwarves!"
-msgstr ""
+msgstr "Csatlakozzunk a törpökhöz!"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:173
 msgid "Thank you for joining us, mages."
-msgstr ""
+msgstr "Köszönjük, hogy csatlakoztok hozzánk, mágusok."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:177
 msgid "Yay! I'm reunited with my kin."
-msgstr ""
+msgstr "Hah! Újra egyesültem a rokonaimmal."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:193
 msgid "No! We shalln't unite with the dwarves."
-msgstr ""
+msgstr "Nem! Mi nem egyesülünk a törpökkel."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:197
 msgid "Oh well..."
-msgstr ""
+msgstr "Ó hát..."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:202
 msgid "Then I will leave you."
-msgstr ""
+msgstr "Akkor elhagylak titeket."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:207
 msgid "Master, I'm going to join my kin in fighting the elves."
 msgstr ""
+"Mester, a rokonságomnak szüksége van rám a tündék elleni harcban, vissza "
+"kell térnem hozzájuk."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:212
 msgid "Bye!"
-msgstr ""
+msgstr "Viszlát!"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:5
 msgid "Furious Battle"
-msgstr ""
+msgstr "Ádáz küzdelem"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:13
 msgid "And so the mages sailed away, only to fight another battle."
-msgstr ""
+msgstr "És a mágusok elhajóztak, hogy megvívjanak egy újabb harcot."
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:26
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:43
 #: Mage_Republic/Scenarios/Return.cfg:35
 msgid "Kill enemy leaders"
-msgstr ""
+msgstr "Megölöd az ellenséges vezéreket"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:55
 msgid "Death of an ally leader"
-msgstr ""
+msgstr "Egy szövetséges vezér elesik"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:129
 msgid "Ill not go so easi- Arggh!!!"
-msgstr ""
+msgstr "Nem megyek olyan könnye'-AAAARGH!!!"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:133
 msgid "Without him, there is no hope..."
-msgstr ""
+msgstr "Nélküle nincsen számunkra remény..."
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:147
 msgid "Muh-Delan X"
-msgstr ""
+msgstr "X. Muh-Delan"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:170
 msgid "Muh-Delan IX"
-msgstr ""
+msgstr "XI. Muh-Delan"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:195
 msgid "Muh-Delan V"
-msgstr ""
+msgstr "V. Muh-Delan"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:213
 msgid "Paladin"
-msgstr ""
+msgstr "Keresztes lovag"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:230
 msgid "The Undead Hordes of the Muh clan are defeated."
-msgstr ""
+msgstr "A Muh klán élőholtjai elvesztek."
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:235
 msgid "Now we must travel into the land of the elves."
-msgstr ""
+msgstr "Most a tündék földjére kell utaznunk."
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:250
 msgid "I knew you mages were coming"
-msgstr ""
+msgstr "Tudtam, hogy ti mágusok egyszer eljöttök."
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:255
 msgid "More undead???"
-msgstr ""
+msgstr "Még több élőhalott??"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:259
 msgid "We must kill them!"
-msgstr ""
+msgstr "Meg kell őket ölnünk!"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:264
 msgid "You mean We must kill you."
-msgstr ""
+msgstr "Úgy érted nekünk kell megölnünk téged."
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:268
 msgid ""
 "We are completely surrounded. Our only hope is if some human patrol finds "
 "and helps us."
 msgstr ""
+"Teljesen körbe vagyunk véve. Az egyetlen reményünk az, ha egy emberekből "
+"álló őrjárat ránk talál és a segítségünkre siet."
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:323
 msgid "Lord Arnu"
-msgstr ""
+msgstr "Arnu úr"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:331
 msgid "Awaedock"
-msgstr ""
+msgstr "Awaedock"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:339
 msgid "Kifret"
-msgstr ""
+msgstr "Kifret"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:347
 msgid "Jagex"
-msgstr ""
+msgstr "Jagex"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:354
 msgid "Look! Mages! We shall help them."
-msgstr ""
+msgstr "Nézzétek! Mágusok! Segítenünk kell rajtuk."
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:359
 msgid "Horaaay!!!!! We're saved!!!!!!"
-msgstr ""
+msgstr "Hurráááá!!! Megmenekültünk!!!!!!"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:363
 msgid "Don't celebrate yet, son. The battle's far from over."
-msgstr ""
+msgstr "Még ne ünnepelj, fiam. A csatának még nincs vége."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:4
 msgid "The Last Hope"
-msgstr ""
+msgstr "Az utolsó remény"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:12
 msgid ""
 "The mages' fort on the Far Island was constantly attacked by the undead..."
-msgstr ""
+msgstr "A Mágusok erődjét a Messzi Szigeten megtámadták az élőholtak..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:18
 msgid "Their leader was killed in battle, and little hope was left..."
 msgstr ""
+"A vezérük elesett a csatában, és csak csekély remény maradt számukra..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:23
 msgid "They elected a silver mage to lead them, and hoped to kill the undead."
 msgstr ""
+"Egy ezüst mágust választottak vezérüknek, és reménykedtek, hogy végezni "
+"fognak az élőholtakkal."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:45
 msgid "Escape to the ship"
-msgstr ""
+msgstr "Elmenekülsz a hajóhoz"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:81
 msgid "Falcor"
-msgstr ""
+msgstr "Falcor"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:95
 msgid "No! The mages on this island are defeated..."
-msgstr ""
+msgstr "Nem lehet! A sziget mágusai elestek..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:110
 msgid "Muh-Dul"
-msgstr ""
+msgstr "Muh-Dul"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:129
 msgid "Muh-Lerman"
-msgstr ""
+msgstr "Muh-Lerman"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:170
 msgid "I sense the presence of undead."
-msgstr ""
+msgstr "Élőholtak jelenlétét érzékelem."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:178
 msgid "The Ancient Ghost"
-msgstr ""
+msgstr "Az Ős-Szellem!"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:215
 msgid "Now you shall die!"
-msgstr ""
+msgstr "Most meghaltok!"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:220
 msgid "Only when the Spectre dies can we escape!"
-msgstr ""
+msgstr "Csak ha a Kísértet meghal, akkor menekülhetünk el!"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:231
 msgid "Yes! The Ancient Ghost is dead!"
-msgstr ""
+msgstr "Igen! Az Ős-Szellem halott!"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:247
 msgid "Come, my warriors to destroy these mages once and forever!"
 msgstr ""
+"Gyertek, jó harcosaim, hogy elsöpörjük a mágusokat egyszer s mindenkorra!"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:252
 msgid "No! We shall escape."
-msgstr ""
+msgstr "Nem! El kell menekülnünk."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:257
 msgid "Or so you think..."
-msgstr ""
+msgstr "Vagy úgy gondolod..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:262
 msgid "Master, I have discovered secret plans from the enemy. They have..."
-msgstr ""
+msgstr "Mester, megtaláltam az ellenségünk titkos terveit. Ők sok..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:267
 msgid "...many..."
-msgstr ""
+msgstr "...embert..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:272
 msgid "...people in..."
-msgstr ""
+msgstr "...tartanak..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:277
 msgid "...the mainland..."
-msgstr ""
+msgstr "...a szárazföldön..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:285
 msgid "Then I must train my mages well."
-msgstr ""
+msgstr "Akkor jól fel kell készítenem a mágusaimat."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:300
 msgid ""
 "The enemies are defeated! Unfortunately, reinforcements will come and kill "
 "us. To the ship!"
 msgstr ""
+"Az ellenségek kikaptak. Balszerencsénkre erősítésük érkezik, és ránk fognak "
+"törni. A hajóra!"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:206
 #: Mage_Republic/Scenarios/Lasthope.cfg:310
 msgid "We have failed to board the ship in time!"
-msgstr ""
+msgstr "Nem sikerült időben elérnünk a hajót!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:5
 msgid "Rescue the Humans"
-msgstr ""
+msgstr "Megmented az embereket"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:13
 msgid "The mages were rescued by some humans."
-msgstr ""
+msgstr "A mágusokat néhány ember mentette meg."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:19
 msgid ""
@@ -457,46 +478,49 @@ msgid ""
 "attacking my kin. If you help me save them, we could offer you a ride "
 "further."
 msgstr ""
+"Csak arra a szigetre vihetlek titeket, amelyik az otthonom. Balszerencse, de "
+"az élőholtak épp a rokonságomat támadják. Ha segítetek megmenteni őket, "
+"messzebre is elvihetünk titeket."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:44
 msgid "Kill enemy leader"
-msgstr ""
+msgstr "Legyőzöd az ellenséges vezért"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:56
 msgid "Death of Unger"
-msgstr ""
+msgstr "Unger elesik"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:80
 msgid "Heltor"
-msgstr ""
+msgstr "Heltor"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:104
 msgid "The undead are unstoppable!"
-msgstr ""
+msgstr "Az élőholtak megállíthatatlanok!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:118
 msgid "No! I have died!"
-msgstr ""
+msgstr "Nem! Meghaltam!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:132
 msgid "The humans on this island have died."
-msgstr ""
+msgstr "A sziget emberei meghaltak."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:137
 msgid "We cannot leave this island, my mages. We're defeated!"
-msgstr ""
+msgstr "Nem hagyhatjuk el ezt a szigetet, mágusaim. Elvesztünk."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:152
 msgid "Muh-Flair"
-msgstr ""
+msgstr "Muh-Flair"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:178
 msgid "Unger"
-msgstr ""
+msgstr "Unger"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:198
 msgid "The Undead have been killed! The humans are free!"
-msgstr ""
+msgstr "Az élőholtak legyőzettek! Az emberek szabadok!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:202
 msgid ""
@@ -504,70 +528,76 @@ msgid ""
 "board the galleon you came on and sail away. Heltor: you should come with "
 "the mages."
 msgstr ""
+"Köszönjük a segítséget. Úgy hallottam, folytatnotok kell az utatokat. "
+"Vigyétek a gályámat, és menjetek. Heltor, neked a mágusokkal kell jönnöd."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:217
 msgid "Some mages have come!"
-msgstr ""
+msgstr "Néhány mágus érkezett!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:222
 msgid "Indeed we have."
-msgstr ""
+msgstr "Valóban."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:226
 msgid "Phew! Finally some relief!"
-msgstr ""
+msgstr "Pfú! Végre egy kis megkönnyebbülés!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:231
 msgid "Both of you will die!"
-msgstr ""
+msgstr "Mindannyian meg fogtok halni!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:236
 msgid ""
 "We do not have the melee units to fight these skeletons! Our swords go right "
 "through these monsters!"
 msgstr ""
+"Nincsenek közelharci egységeink hogy megküzdjenek a csontvázakkal! A "
+"kardjaink átcsúsznak a csontjaik közt!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:241
 msgid ""
 " Wait Heltor!  I heard that impact weapons, along with magic, can harm the "
 "undead!"
 msgstr ""
+"Várj Heltor! Úgy hallottam, hogy azok a fegyverek, mágiával egyesülve, "
+"ártóak az élőholtaknak!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:246
 msgid "We can arm the local populace with some maces off our ship."
-msgstr ""
+msgstr "Fel tudjuk szerelni a helyieket néhány buzogánnyal a hajónkról."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:251
 msgid "It shall be done."
-msgstr ""
+msgstr "Történjen meg!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:258
 msgid "Raeddodock"
-msgstr ""
+msgstr "Raeddodock"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:266
 msgid "Haeddodock"
-msgstr ""
+msgstr "Haeddododck"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:273
 msgid "Ready to serve."
-msgstr ""
+msgstr "Felszolgálásra kész."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:287
 msgid "Urlo"
-msgstr ""
+msgstr "Urlo"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:295
 msgid "We found some dwarves!"
-msgstr ""
+msgstr "Talátunk néhány törpöt!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:300
 msgid "Furlo"
-msgstr ""
+msgstr "Furlo"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:308
 msgid "Durlo"
-msgstr ""
+msgstr "Durlo"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:316
 msgid ""
@@ -575,14 +605,17 @@ msgid ""
 "brothers and I were forced into hiding. We will join you, and in return for "
 "your aid we'll give you all our gold."
 msgstr ""
+"Kérlek segítsetek! Az élőholtak nagy nyomást gyakorolnak ezekben a napokban. "
+"A testvéreim és én bújkálunk. Csatlakozunk hozzátok, és segítségként nektek "
+"adjuk minden pénzünket!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:333
 msgid "The humans are dead. We cannot continue."
-msgstr ""
+msgstr "Az emberek halottak. Nem folytathatjuk."
 
 #: Mage_Republic/Scenarios/Return.cfg:5
 msgid "The Return"
-msgstr ""
+msgstr "A visszatérés"
 
 #: Mage_Republic/Scenarios/Return.cfg:12
 msgid ""
@@ -590,135 +623,159 @@ msgid ""
 "wastelands and many things had changed. Luckily, the mages found an empty "
 "keep."
 msgstr ""
+"A mágusok oda utaztak, amely sziget régebben az övék volt. A terület egy "
+"része tarlvá vált és sokminden más is megváltozott. Szerencsére a mágusok "
+"találtak egy üres erődítményt."
 
 #: Mage_Republic/Scenarios/Return.cfg:85
 msgid "Lichy II"
-msgstr ""
+msgstr "II. Lichy"
 
 #: Mage_Republic/Scenarios/Return.cfg:100
 msgid "Gerken"
-msgstr ""
+msgstr "Gerken"
 
 #: Mage_Republic/Scenarios/Return.cfg:115
 msgid "Fatar"
-msgstr ""
+msgstr "Fatar"
 
 #: Mage_Republic/Scenarios/Return.cfg:129
 msgid "Genfer"
-msgstr ""
+msgstr "Genfer"
 
 #: Mage_Republic/Scenarios/Return.cfg:145
 msgid "Your land is defeated."
-msgstr ""
+msgstr "A földetek elveszett!"
 
 #: Mage_Republic/Scenarios/Return.cfg:150
 msgid "Never!"
-msgstr ""
+msgstr "Soha!"
 
 #: Mage_Republic/Scenarios/Return.cfg:161
 msgid "We cannot survive any longer."
-msgstr ""
+msgstr "Nem marahatunk életben tovább."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:5
 msgid "Surrounded!"
-msgstr ""
+msgstr "Körülvéve!"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:12
 msgid "The mages sailed away towards the mainland."
-msgstr ""
+msgstr "A mágusok egyenesen a szárazföld felé hajóztak."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:16
 msgid "The party disembarked only to face a group of undead."
-msgstr ""
+msgstr "A csapat partra szállt hogy szembeszálljon egy csapat élőholttal."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:39
 msgid "Survive until a rescue party comes"
-msgstr ""
+msgstr "Életben maradsz, amíg egy felmentő csapat nem érkezik"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:72
 msgid "The Mage Republic is doomed..."
-msgstr ""
+msgstr "A Mágus Köztársaság elbukott..."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:86
 msgid "Muh-Derner III"
-msgstr ""
+msgstr "III. Muh-Derner"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:120
 msgid "We must board the ship quickly."
-msgstr ""
+msgstr "Gyorsan fel kell szállnunk a hajóra."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:133
 msgid "We escaped!!!"
-msgstr ""
+msgstr "Megmenekültünk!!!"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:149
 msgid "Welcome to our lair."
-msgstr ""
+msgstr "Üdvözlet a barlangunkban!"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:154
 msgid "The Undead are everywhere!!!"
-msgstr ""
+msgstr "Élőholtak mindenütt!!!"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:159
 msgid "What did you expect?"
-msgstr ""
+msgstr "Mit vártál?"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:164
 msgid "A peaceful land."
-msgstr ""
+msgstr "Egy békés földet."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:169
 msgid "There are no more lands that you call peaceful."
-msgstr ""
+msgstr "Nincs már olyan föld, amit békésnek nevezhetnél."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:174
 msgid "Only we, the immortals, shall dominate."
-msgstr ""
+msgstr "Csak mi, a halhatatlanok fogunk uralkodni."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:179
 msgid "And it is now your hour to die!!!"
-msgstr ""
+msgstr "És ütött az utolsó órátok!!!"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:193
 msgid "We actually defeated the enemy leader!!!"
-msgstr ""
+msgstr "Legyőztük végre az ellenséges vezért!!!"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:5
 msgid "The Wasteland"
-msgstr ""
+msgstr "A tarló"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:111
 msgid "No..."
-msgstr ""
+msgstr "Ne..."
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:146
 msgid "The... Wasteland..."
-msgstr ""
+msgstr "A...tarló..."
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:150
 msgid "We cannot defeat the undead alone."
-msgstr ""
+msgstr "Nem győzedelmeskedhetünk egyedül az élőholtak felett."
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:163
 msgid "Muh-Rahrg"
-msgstr ""
+msgstr "Muh-Rahrg"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:178
 msgid "Muh-Rahrg III"
-msgstr ""
+msgstr "III. Muh-Rahrg"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:195
 msgid "You didn't know about the wasteland, did you?"
-msgstr ""
+msgstr "Nem tudtál a tarlóról, igaz?"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:200
 msgid "I'm tired of speaking to these undead."
-msgstr ""
+msgstr "Unom már, hogy mindenhol élőholtakkal kell társalognom."
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:209
 msgid "Yes!!! No more undead!"
-msgstr ""
+msgstr "Igen!!! Nincs több élőholt!"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:221
 msgid "No!!! We are out of time..."
-msgstr ""
+msgstr "Ne!!! Kifutottunk az időből..."
+
+#~ msgid ""
+#~ "\n"
+#~ "Victory:\n"
+#~ "@Escape to the northernmost dwarven keep when road is completed\n"
+#~ "OR\n"
+#~ "@Survive for 40 days\n"
+#~ "Defeat:\n"
+#~ "#Death of Delter\n"
+#~ "#Death of Heltor\n"
+#~ "#Death of Gelper"
+#~ msgstr ""
+#~ "\n"
+#~ "Győzöl, ha:\n"
+#~ "@Elmenekülsz a legészakibb törpe vár felé, amikor az út kész\n"
+#~ "VAGY\n"
+#~ "@Túlélsz 40 napot\n"
+#~ "Veszítesz, ha:\n"
+#~ "#Delter elesik\n"
+#~ "#Heltor elesik\n"
+#~ "#Gelper elesik"
