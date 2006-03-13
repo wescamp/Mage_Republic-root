@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2005-10-09 21:59+0200\n"
+"POT-Creation-Date: 2006-03-13 13:46+0100\n"
 "PO-Revision-Date: 2005-09-09 20:53+0100\n"
 "Last-Translator: Guillaume MASSART <massart.guillaume@wanadoo.fr>\n"
 "Language-Team: Language fr <wesnoth@ml.free.fr>\n"
@@ -57,19 +57,19 @@ msgstr ""
 "Survivre 40 jours"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:48
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:47
+#: Mage_Republic/Scenarios/Lasthope.cfg:49
+#: Mage_Republic/Scenarios/Return.cfg:39
+#: Mage_Republic/Scenarios/Surrounded.cfg:43
 #: Mage_Republic/Scenarios/Wasteland.cfg:30
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:37
-#: Mage_Republic/Scenarios/Surrounded.cfg:43
-#: Mage_Republic/Scenarios/Lasthope.cfg:49
-#: Mage_Republic/Scenarios/Furious_Battle.cfg:47
-#: Mage_Republic/Scenarios/Return.cfg:39
 msgid "Death of Delter"
 msgstr "Mort de Delter"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:52
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:51
 #: Mage_Republic/Scenarios/Wasteland.cfg:34
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:41
-#: Mage_Republic/Scenarios/Furious_Battle.cfg:51
 msgid "Death of Heltor"
 msgstr "Mort d'Heltor"
 
@@ -79,36 +79,36 @@ msgid "Death of Gelper"
 msgstr "Mort de Gelper"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:60
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:49
-#: Mage_Republic/Scenarios/Surrounded.cfg:47
-#: Mage_Republic/Scenarios/Lasthope.cfg:53
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:59
+#: Mage_Republic/Scenarios/Lasthope.cfg:53
 #: Mage_Republic/Scenarios/Return.cfg:43
+#: Mage_Republic/Scenarios/Surrounded.cfg:47
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:49
 msgid "Turns run out"
 msgstr "Fin des tours"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:71
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:71
+#: Mage_Republic/Scenarios/Lasthope.cfg:64
+#: Mage_Republic/Scenarios/Return.cfg:53
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:37
+#: Mage_Republic/Scenarios/Surrounded.cfg:58
 #: Mage_Republic/Scenarios/Wasteland.cfg:58
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:59
-#: Mage_Republic/Scenarios/Surrounded.cfg:58
-#: Mage_Republic/Scenarios/Lasthope.cfg:64
-#: Mage_Republic/Scenarios/Furious_Battle.cfg:71
-#: Mage_Republic/Scenarios/Return.cfg:53
 msgid "Delter"
 msgstr "Delter"
 
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:94
+#: Mage_Republic/Scenarios/Return.cfg:68
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:71
 #: Mage_Republic/Scenarios/Wasteland.cfg:98
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:92
-#: Mage_Republic/Scenarios/Furious_Battle.cfg:94
-#: Mage_Republic/Scenarios/Return.cfg:68
 msgid "We have been defeated."
 msgstr "Nous avons été vaincus."
 
+#: Mage_Republic/Scenarios/Furious_Battle.cfg:109
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:84
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:105
-#: Mage_Republic/Scenarios/Furious_Battle.cfg:109
 msgid "Must...help...Delter..."
 msgstr "Je dois... aider... Delter..."
 
@@ -116,8 +116,8 @@ msgstr "Je dois... aider... Delter..."
 msgid "No!!! The dwarves are defeated."
 msgstr "Non !!! Les nains sont vaincus."
 
-#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:122
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:283
+#: Mage_Republic/Scenarios/Dwarven_Fort.cfg:122
 msgid "We are doomed!!!"
 msgstr "Nous sommes condamnés !!!"
 
@@ -260,9 +260,9 @@ msgstr "Bataille furieuse"
 msgid "And so the mages sailed away, only to fight another battle."
 msgstr "Et ainsi les mages naviguèrent, pour mener une autre bataille."
 
-#: Mage_Republic/Scenarios/Wasteland.cfg:26
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:43
 #: Mage_Republic/Scenarios/Return.cfg:35
+#: Mage_Republic/Scenarios/Wasteland.cfg:26
 msgid "Kill enemy leaders"
 msgstr "Tuer les chefs ennemis"
 
@@ -455,8 +455,8 @@ msgstr ""
 "Les ennemis sont vaincus ! Malheureusement, des renforts vont arriver et "
 "nous tuer. Au navire !"
 
-#: Mage_Republic/Scenarios/Surrounded.cfg:206
 #: Mage_Republic/Scenarios/Lasthope.cfg:310
+#: Mage_Republic/Scenarios/Surrounded.cfg:206
 msgid "We have failed to board the ship in time!"
 msgstr "Nous n'avons pas réussi à embarquer dans le navire à temps !"
 
