@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:46+0100\n"
-"PO-Revision-Date: 2005-09-02 12:50+0100\n"
-"Last-Translator: RokStar <rokstar123@gmail.com>\n"
+"PO-Revision-Date: 2006-03-22 21:31+0100\n"
+"Last-Translator: Brivido <brivido@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -36,23 +36,26 @@ msgid "Silver Mage"
 msgstr "Mago Argentato"
 
 #: Mage_Republic.cfg:17
-#, fuzzy
 msgid "Help the mages fight the undead in the Far Island."
 msgstr "Aiuta i maghi a combattere i non-morti nell'Isola Lontana"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:5
 msgid "The Dwarven Fort"
-msgstr "Il Forte dei Nani"
+msgstr "La fortezza dei Nani"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:28
 msgid "Escape to the northernmost dwarven keep when road is completed"
 msgstr ""
+"Fuggi verso la fortezza dei nani più settentrionale quando la strada è "
+"completata"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:33
 msgid ""
 "OR\n"
 "Survive for 40 days"
 msgstr ""
+"Oppure\n"
+"Sopravvivi per 40 giorni"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:48
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:47
@@ -62,19 +65,19 @@ msgstr ""
 #: Mage_Republic/Scenarios/Wasteland.cfg:30
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:37
 msgid "Death of Delter"
-msgstr ""
+msgstr "Morte di Delter"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:52
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:51
 #: Mage_Republic/Scenarios/Wasteland.cfg:34
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:41
 msgid "Death of Heltor"
-msgstr ""
+msgstr "Morte di Heltor"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:45
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:45
 msgid "Death of Gelper"
-msgstr ""
+msgstr "Morte di Gelper"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:60
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:59
@@ -83,7 +86,7 @@ msgstr ""
 #: Mage_Republic/Scenarios/Surrounded.cfg:47
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:49
 msgid "Turns run out"
-msgstr ""
+msgstr "Fine dei turni a disposizione"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:71
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:71
@@ -108,7 +111,7 @@ msgstr "Siamo stati sconfitti."
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:84
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:105
 msgid "Must...help...Delter..."
-msgstr "Devo...aiuto...Delter..."
+msgstr "Devo...aiutare...Delter..."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:118
 msgid "No!!! The dwarves are defeated."
@@ -117,7 +120,7 @@ msgstr "No!!! I nani sono stati sconfitti."
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:283
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:122
 msgid "We are doomed!!!"
-msgstr "Siamo rovinati!!!"
+msgstr "Siamo condannati!!!"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:103
 #: Mage_Republic/Scenarios/Wasteland.cfg:129
@@ -142,11 +145,11 @@ msgstr ""
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:197
 msgid "These puny mages can't even kill one of my people!!!"
 msgstr ""
-"Questi minuscoli maghi non possono uccidere nemmeno uno dei miei uomini."
+"Questi minuscoli maghi non potrebbero uccidere nemmeno uno dei miei uomini."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:201
 msgid "Yes, the elves do LOVE bragging."
-msgstr "Sì, gli elfi AMANO adularsi."
+msgstr "Sì, agli elfi PIACE vantarsi."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:206
 msgid ""
@@ -154,7 +157,7 @@ msgid ""
 "run away."
 msgstr ""
 "Shh! I miei uomini stanno costruendo una strada. Se sopravviviamo fin quando "
-"sarà finità potremo scappare."
+"sarà finita potremo scappare."
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:211
 msgid "Where will the road lead?"
@@ -174,7 +177,7 @@ msgstr "Possiamo scappare!"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:5
 msgid "Dwarves and Elves"
-msgstr "Nani ed Elfi"
+msgstr "Nani ed elfi"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:12
 msgid ""
@@ -190,7 +193,7 @@ msgstr "Guardate! Dei maghi!"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:142
 msgid "Greetings, elves."
-msgstr "Salute elfi."
+msgstr "Salute, elfi."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:146
 msgid "Welcome mages."
@@ -206,33 +209,31 @@ msgstr ""
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:155
 msgid "The elves LOVE bragging."
-msgstr "Gli elfi AMANO adularsi."
+msgstr "Agli elfi PIACE vantarsi."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:159
 msgid "My dwarves: should we let them join us?"
-msgstr "Miei nani: ci lasciate unire a voi?"
+msgstr "Miei nani: cilasciate unire a voi?"
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:163
 msgid "Let them join."
-msgstr "Facciamoli unire."
+msgstr "Prendiamoli con noi."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:167
 msgid "I see... We'll accept them, but it is their choice."
-msgstr "Va bene.... li accettiamo, ma è una loro scelta."
+msgstr "Va bene... li accettiamo, ma è una loro scelta."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:169
-#, fuzzy
 msgid "Let's Join the dwarves!"
-msgstr "Uniamoci ai nani dunque."
+msgstr "Uniamoci ai nani, dunque."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:173
 msgid "Thank you for joining us, mages."
 msgstr "Grazie per esservi uniti a noi, maghi."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:177
-#, fuzzy
 msgid "Yay! I'm reunited with my kin."
-msgstr "Yay! Mi sono unito di nuovo alla mia gente."
+msgstr "Yay! Sono tornato tra la mia gente."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:193
 msgid "No! We shalln't unite with the dwarves."
@@ -243,7 +244,6 @@ msgid "Oh well..."
 msgstr "Oh... bene...."
 
 #: Mage_Republic/Scenarios/Dwarves_Elves.cfg:202
-#, fuzzy
 msgid "Then I will leave you."
 msgstr "Allora me ne vado."
 
@@ -257,7 +257,7 @@ msgstr "Ciao!"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:5
 msgid "Furious Battle"
-msgstr "Battaglia Furiosa"
+msgstr "Un furibonda battaglia"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:13
 msgid "And so the mages sailed away, only to fight another battle."
@@ -267,15 +267,15 @@ msgstr "I maghi salparono, solo per trovarsi coinvolti in un'altra battaglia."
 #: Mage_Republic/Scenarios/Return.cfg:35
 #: Mage_Republic/Scenarios/Wasteland.cfg:26
 msgid "Kill enemy leaders"
-msgstr ""
+msgstr "Uccidi i condottieri nemici"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:55
 msgid "Death of an ally leader"
-msgstr ""
+msgstr "Morte di un condottiero alleato"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:129
 msgid "Ill not go so easi- Arggh!!!"
-msgstr "Non morirò così facilmente- Arggh!!!"
+msgstr "Non morirò così facilmen- Arggh!!!"
 
 #: Mage_Republic/Scenarios/Furious_Battle.cfg:133
 msgid "Without him, there is no hope..."
@@ -359,13 +359,13 @@ msgstr "Non festeggiare, figlio. La battaglia è tutt'altro che finita."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:4
 msgid "The Last Hope"
-msgstr "L'ultima Speranza"
+msgstr "L'ultima speranza"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:12
 msgid ""
 "The mages' fort on the Far Island was constantly attacked by the undead..."
 msgstr ""
-"Il Forte dei maghi nell'Isola Lontana è stato continuamente attaccato dai "
+"La fortezza dei maghi nell'Isola Lontana è stata continuamente attaccata dai "
 "non-morti..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:18
@@ -382,7 +382,7 @@ msgstr ""
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:45
 msgid "Escape to the ship"
-msgstr ""
+msgstr "Fuggi sulla nave"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:81
 msgid "Falcor"
@@ -406,7 +406,7 @@ msgstr "Avverto la presenza dei non-morti."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:178
 msgid "The Ancient Ghost"
-msgstr "L'Antico Spettro"
+msgstr "L'antico spettro"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:215
 msgid "Now you shall die!"
@@ -418,7 +418,7 @@ msgstr "Solo dopo aver ucciso lo Spettro potremmo fuggire."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:231
 msgid "Yes! The Ancient Ghost is dead!"
-msgstr "Sì! L'Antico Spettro è morto!"
+msgstr "Sì! L'antico spettro è morto!"
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:247
 msgid "Come, my warriors to destroy these mages once and forever!"
@@ -485,11 +485,11 @@ msgstr ""
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:44
 msgid "Kill enemy leader"
-msgstr ""
+msgstr "Uccidi il condottiero nemico"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:56
 msgid "Death of Unger"
-msgstr ""
+msgstr "Morte di Unger"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:80
 msgid "Heltor"
@@ -508,7 +508,6 @@ msgid "The humans on this island have died."
 msgstr "Gli umani di quest'isola sono morti."
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:137
-#, fuzzy
 msgid "We cannot leave this island, my mages. We're defeated!"
 msgstr "Non possiamo lasciare quest'isola. Siamo stati sconfitti!"
 
@@ -538,7 +537,6 @@ msgid "Some mages have come!"
 msgstr "Alcuni maghi sono arrivati!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:222
-#, fuzzy
 msgid "Indeed we have."
 msgstr "Infatti."
 
@@ -556,7 +554,7 @@ msgid ""
 "through these monsters!"
 msgstr ""
 "Non abbiamo unità con combattimento ravvicinato per combattere gli "
-"scheletri! Le nostre spade oltrepassano questi mostri!"
+"scheletri! Le nostre spade passano attraverso questi mostri!"
 
 #: Mage_Republic/Scenarios/Rescue_Humans.cfg:241
 msgid ""
@@ -620,10 +618,9 @@ msgstr "Gli umani sono morti. Non possiamo continuare."
 
 #: Mage_Republic/Scenarios/Return.cfg:5
 msgid "The Return"
-msgstr "Il Ritorno"
+msgstr "Il ritorno"
 
 #: Mage_Republic/Scenarios/Return.cfg:12
-#, fuzzy
 msgid ""
 "The mages sailed to what used to be their island. Part of it had become "
 "wastelands and many things had changed. Luckily, the mages found an empty "
@@ -631,7 +628,7 @@ msgid ""
 msgstr ""
 "I maghi salparono verso quella che era la loro isola. Parte di essa è "
 "diventata una landa desolata e molte cose sono cambiate. Fortunatamente i "
-"maghi trovarono un fortino abbandonato."
+"maghi trovarono una fortezza abbandonata."
 
 #: Mage_Republic/Scenarios/Return.cfg:85
 msgid "Lichy II"
@@ -650,7 +647,6 @@ msgid "Genfer"
 msgstr "Genfer"
 
 #: Mage_Republic/Scenarios/Return.cfg:145
-#, fuzzy
 msgid "Your land is defeated."
 msgstr "La tua terra è perduta"
 
@@ -659,9 +655,8 @@ msgid "Never!"
 msgstr "Mai!"
 
 #: Mage_Republic/Scenarios/Return.cfg:161
-#, fuzzy
 msgid "We cannot survive any longer."
-msgstr "Non possiamo sopravvivere"
+msgstr "Non possiamo più sopravvivere."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:5
 msgid "Surrounded!"
@@ -677,7 +672,7 @@ msgstr "Il gruppo sbarcò e si trovò ad affrontare un gruppo di non-morti."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:39
 msgid "Survive until a rescue party comes"
-msgstr ""
+msgstr "Sopravvivi fino all'arrivo di una squadra di salvataggio"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:72
 msgid "The Mage Republic is doomed..."
@@ -708,9 +703,8 @@ msgid "What did you expect?"
 msgstr "Cosa ti aspettavi?"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:164
-#, fuzzy
 msgid "A peaceful land."
-msgstr "Una terra pacifica"
+msgstr "Una terra pacifica."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:169
 msgid "There are no more lands that you call peaceful."
@@ -754,7 +748,7 @@ msgstr "Muh-Rahrg III"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:195
 msgid "You didn't know about the wasteland, did you?"
-msgstr "Non conoscevate la Landa Desolata, non è verò?"
+msgstr "Non conoscevate la Landa Desolata, non è vero?"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:200
 msgid "I'm tired of speaking to these undead."
@@ -766,7 +760,7 @@ msgstr "Sì!!! Basta non-morti!"
 
 #: Mage_Republic/Scenarios/Wasteland.cfg:221
 msgid "No!!! We are out of time..."
-msgstr "No!!! Ci siamo attardati..."
+msgstr "No!!! Non c'è più tempo..."
 
 #~ msgid ""
 #~ "\n"
