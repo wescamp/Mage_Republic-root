@@ -3,8 +3,8 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-03-13 13:46+0100\n"
-"PO-Revision-Date: 2006-08-25 10:59+0100\n"
-"Last-Translator: Brivido <brivido(at)gmail.com>\n"
+"PO-Revision-Date: 2006-09-04 19:37+0100\n"
+"Last-Translator: Brivido <brivido@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -25,7 +25,7 @@ msgstr "(facile)"
 
 #: Mage_Republic.cfg:15
 msgid "White Mage"
-msgstr "Mago Bianco"
+msgstr "Mago bianco"
 
 #: Mage_Republic.cfg:16
 msgid "(hardest)"
@@ -33,11 +33,11 @@ msgstr "(difficile)"
 
 #: Mage_Republic.cfg:16
 msgid "Silver Mage"
-msgstr "Mago Argentato"
+msgstr "Mago argentato"
 
 #: Mage_Republic.cfg:17
 msgid "Help the mages fight the undead in the Far Island."
-msgstr "Aiuta i maghi a combattere i non-morti nell'isola remota"
+msgstr "Aiuta i maghi a combattere i non-morti nell'isola lontana"
 
 #: Mage_Republic/Scenarios/Dwarven_Fort.cfg:5
 msgid "The Dwarven Fort"
@@ -365,7 +365,7 @@ msgstr "L'ultima speranza"
 msgid ""
 "The mages' fort on the Far Island was constantly attacked by the undead..."
 msgstr ""
-"La fortezza dei maghi nell'Isola Lontana è stata continuamente attaccata dai "
+"La fortezza dei maghi nell'isola lontana è stata continuamente attaccata dai "
 "non-morti..."
 
 #: Mage_Republic/Scenarios/Lasthope.cfg:18
@@ -664,7 +664,7 @@ msgstr "Circondati!"
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:12
 msgid "The mages sailed away towards the mainland."
-msgstr "I maghi salparano per il continente."
+msgstr "I maghi salparono per il continente."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:16
 msgid "The party disembarked only to face a group of undead."
@@ -708,7 +708,7 @@ msgstr "Una terra pacifica."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:169
 msgid "There are no more lands that you call peaceful."
-msgstr "Nessuna terra al mondo può essere chiamata pacifica."
+msgstr "Non ci sono più terre pacifiche su questo mondo."
 
 #: Mage_Republic/Scenarios/Surrounded.cfg:174
 msgid "Only we, the immortals, shall dominate."
